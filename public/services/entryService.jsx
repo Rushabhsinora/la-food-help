@@ -1,9 +1,6 @@
 import { db, DatabaseName } from "../firebaseConfig";
 import { collection, query, getDocs, addDoc, orderBy, limit, doc, deleteDoc, where } from "firebase/firestore";
 
-/**
- * @param
- */
 export async function createRestaurant(data = {}) {
   console.log("Creating resturant with data:", data);
   try {
@@ -11,6 +8,17 @@ export async function createRestaurant(data = {}) {
     return { id: docRef.id, ...data };
   } catch (error) {
     console.error("Restaurant add error:", error.message);
+    return null;
+  }
+}
+
+export async function createFood(data = {}) {
+  console.log("Creating foodbank with data:", data);
+  try {
+    const docRef = await addDoc(collection(db, 'Foods'), data);
+    return { id: docRef.id, ...data };
+  } catch (error) {
+    console.error("Foodbank add error:", error.message);
     return null;
   }
 }
