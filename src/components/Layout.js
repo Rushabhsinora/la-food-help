@@ -4,31 +4,31 @@ import Link from "next/link";
 
 export function Layout({ children }) {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 to-yellow-50">
-      {/* Mobile menu */}
-      <header className="bg-white/80 backdrop-blur-md sticky top-0 z-50 border-b shadow-sm">
+    <div className="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50">
+      <header className="bg-white/90 backdrop-blur-xl sticky top-0 z-50 border-b shadow-lg">
         <nav className="max-w-6xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <Link href="/" className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+            <Link href="/" className="text-4xl font-titillium font-black bg-gradient-to-r from-orange-600 via-red-600 to-pink-600 bg-clip-text text-transparent drop-shadow-2xl tracking-tight">
               🍽️ LA Food Help
             </Link>
             
-            {/* Desktop nav */}
-            <div className="hidden md:flex gap-6">
-              <Link href="/spots/venice" className="hover:text-orange-600 font-medium">Venice</Link>
-              <Link href="/spots/overland" className="hover:text-orange-600 font-medium">Overland</Link>
-              <Link href="/admin" className="bg-orange-600 text-white px-4 py-2 rounded-lg hover:bg-orange-700 transition-all">Admin</Link>
+            {/* ONLY Home + Admin - NO spot links */}
+            <div className="flex gap-4 items-center">
+              <Link href="/" className="font-inter text-lg text-gray-700 hover:text-orange-600 font-medium">Home</Link>
+              <Link href="/admin" className="font-inter bg-gradient-to-r from-orange-600 to-red-600 text-white px-8 py-4 rounded-2xl font-semibold text-lg hover:shadow-2xl hover:scale-105 transition-all duration-300 shadow-xl">
+                Admin
+              </Link>
             </div>
           </div>
         </nav>
       </header>
       
-      <main className="max-w-6xl mx-auto px-4 py-8">
+      <main className="max-w-6xl mx-auto px-4 py-12">
         {children}
       </main>
       
-      <footer className="mt-20 bg-white/50 border-t py-8 text-center text-gray-600">
-        <p>Helping LA's homeless community find free food • Last updated today</p>
+      <footer className="mt-24 bg-gradient-to-r from-orange-500/20 to-red-500/20 border-t backdrop-blur-sm py-12 text-center">
+        <p className="font-inter text-xl text-gray-700">Helping LA's homeless community find free food • Last updated today</p>
       </footer>
     </div>
   );
