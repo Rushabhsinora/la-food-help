@@ -27,9 +27,7 @@ export function Card({ title, description, children, href, tags, milesAway }) {
         {children}
         {href && (
           <div className="pt-4 border-t border-gray-100">
-            <a>
-              href={href}
-              
+            <a href={href} className="font-titillium inline-flex items-center gap-3 text-orange-600 hover:text-orange-800 font-semibold text-xl group-hover:translate-x-2 transition-all duration-300 pt-2">
               View details <span className="group-hover:translate-x-1 transition-transform">→</span>
             </a>
           </div>
