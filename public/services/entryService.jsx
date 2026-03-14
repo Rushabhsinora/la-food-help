@@ -83,7 +83,7 @@ export async function deleteSpot(entryName) {
  */
 export async function fetchEntry(collection) {
   try {
-    const snapshot = await getDocs(query(collection(db, collection), orderBy("name", "desc"), limit(5)));
+    const snapshot = await getDocs(query(collection(db, collection), orderBy("id")));
     return snapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
   } catch (error) {
     console.error("Entry fetch error:", error.message);
