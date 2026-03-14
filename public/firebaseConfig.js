@@ -1,22 +1,22 @@
-// Import the functions you need from the SDKs you need
+// public/firebaseConfig.js - CORRECT SYNTAX FOR NEXT.JS
 import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
+import { getFirestore } from "firebase/firestore";
 
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: import.meta.env.FIREBASE_API_KEY,
-  authDomain: "wastenot-b1c8a.firebaseapp.com",
-  projectId: "wastenot-b1c8a",
-  storageBucket: "wastenot-b1c8a.firebasestorage.app",
-  messagingSenderId: "1074522660798",
-  appId: "1:1074522660798:web:b66bb05756b0caed3f23ef",
-  measurementId: "G-X0WWGJFCHQ"
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,           // ✅ process.env
+  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID
 };
 
-// Initialize Firebase
+// Initialize only if not already initialized
 const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+export const db = getFirestore(app);
+
+export const DatabaseName = {
+  SPOTS: 'Spots',
+  RESTAURANTS: 'Restaurants', 
+  FOODS: 'Foods'
+};

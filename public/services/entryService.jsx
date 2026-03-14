@@ -1,6 +1,7 @@
 import { db, DatabaseName } from "../firebaseConfig";
 import { collection, query, getDocs, addDoc, orderBy, limit, doc, deleteDoc, where } from "firebase/firestore";
 
+
 export async function createRestaurant(data = {}) {
   console.log("Creating resturant with data:", data);
   try {
@@ -81,12 +82,12 @@ export async function deleteSpot(entryName) {
  * @param {DatabaseName} collection the collection name to fetch the entries from
  * @returns map of the entries in the collection
  */
-export async function fetchEntry(collection) {
+export async function fetchEntry(collectionName) {
   try {
-    const snapshot = await getDocs(query(collection(db, collection), orderBy("id")));
+    const snapshot = await getDocs(collection(db, collectionName));
     return snapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
   } catch (error) {
     console.error("Entry fetch error:", error.message);
-    return null;
+    return [];
   }
 }
