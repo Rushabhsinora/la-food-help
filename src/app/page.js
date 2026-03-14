@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <Layout>
       <div className="mb-8">
-        <h1 className="text-4xl font-bold mb-4">Free Food Pickup Spots</h1>
+        <h1 className="text-4xl font-bold mb-4 text-black">Free Food Pickup Spots</h1>
         <p className="text-xl text-gray-600">Find food near you in LA</p>
       </div>
       
