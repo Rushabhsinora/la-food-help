@@ -1,0 +1,3803 @@
+{
+  "los_angeles_food_resources": [
+    {
+      "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program - Long Beach",
+      "address": {
+        "street": "3935 E. 10th St.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90813",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 201-1326",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food services and nutrition information for low-income persons who have AIDS or HIV illness in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1030729005",
+      "coordinates": {
+        "latitude": 33.779225,
+        "longitude": -118.146143
+      }
+    },
+    {
+      "name": "Aaron Community Cultural Center",
+      "address": {
+        "street": "1010-B W. 108th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90044",
+        "county": "Los Angeles"
+      },
+      "phone": "(800) 527-4184",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides employment services and shelter for adults and emancipated youth age 16 and older, family life education for adolescents age 16 and older and adults, and volunteer opportunities for adults and youth age 12 and older who live in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1068510001",
+      "coordinates": {
+        "latitude": 33.938011,
+        "longitude": -118.292446
+      }
+    },
+    {
+      "name": "Action Food Pantry",
+      "address": {
+        "street": "17880 E. Covina Blvd.",
+        "city": "Covina",
+        "state": "CA",
+        "zip_code": "91722",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 319-0554",
+      "resource_type": "Food Pantry",
+      "description": "The organization provides emergency food for people in the East San Gabriel Valley. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1059590001",
+      "coordinates": {
+        "latitude": 34.099089,
+        "longitude": -117.900356
+      }
+    },
+    {
+      "name": "Aids Food Store , The",
+      "address": {
+        "street": "3935 E. 10th St.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90804",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 434-3425",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food to people who have HIV or AIDS and live in the Greater Long Beach area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1039939001",
+      "coordinates": {
+        "latitude": 33.779225,
+        "longitude": -118.146143
+      }
+    },
+    {
+      "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program",
+      "address": {
+        "street": "611 S. Kingsley Dr.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90005",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 201-1433",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food services and nutrition information for low-income persons who have AIDS or HIV illness in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1030729001",
+      "coordinates": {
+        "latitude": 34.06295,
+        "longitude": -118.30303
+      }
+    },
+    {
+      "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program - North Hollywood",
+      "address": {
+        "street": "7336 Bellaire Ave.",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip_code": "91605",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 201-1413",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food services and nutrition information for low-income persons who have AIDS or HIV illness in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1030729003",
+      "coordinates": {
+        "latitude": 34.204699,
+        "longitude": -118.409291
+      }
+    },
+    {
+      "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program - S Mark Taper Center",
+      "address": {
+        "street": "1807 E. 120th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90059",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 201-1635",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food services and nutrition information for low-income persons who have AIDS or HIV illness in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1030729004",
+      "coordinates": {
+        "latitude": 33.924803,
+        "longitude": -118.240568
+      }
+    },
+    {
+      "name": "All Peoples Christian Center",
+      "address": {
+        "street": "822 E. 20th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90011",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 747-6357",
+      "resource_type": "Food Pantry",
+      "description": "The center provides counseling services, emergency food, personal goods, volunteer opportunities for people ages 55 and older and youth programs for people who live in the South Central area of Los Angeles. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1019949001",
+      "coordinates": {
+        "latitude": 34.02607,
+        "longitude": -118.25684
+      }
+    },
+    {
+      "name": "Altadena Seventh-day Adventist Church",
+      "address": {
+        "street": "2609 N. Lincoln Ave.",
+        "city": "Altadena",
+        "state": "CA",
+        "zip_code": "91001",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 794-3953",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides emergency food and personal goods for residents of Altadena. There are geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1053329001",
+      "coordinates": {
+        "latitude": 34.190501,
+        "longitude": -118.159005
+      }
+    },
+    {
+      "name": "Amigos Sin Barreras - Friends Without Barriers - Circle Of Life Food Pantry",
+      "address": {
+        "street": "20413 Berendo St.",
+        "city": "Torrance",
+        "state": "CA",
+        "zip_code": "90502",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 316-7074",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and other services for low-income people with HIV or AIDS living in the South Bay area (SPA 8). Service is restricted to SPA 8 residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1066670009",
+      "coordinates": {
+        "latitude": 33.845231,
+        "longitude": -118.292974
+      }
+    },
+    {
+      "name": "Angelica Lutheran Church",
+      "address": {
+        "street": "1345 S. Burlington Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90006",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 382-6378",
+      "resource_type": "Food Pantry",
+      "description": "The church provides cultural enrichment, emergency food, health services and holiday assistance for people who live in Los Angeles zip codes 90006, 90015 and 90057. Geographic restrictions apply for most services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034539001",
+      "coordinates": {
+        "latitude": 34.04439,
+        "longitude": -118.27981
+      }
+    },
+    {
+      "name": "Antelope Valley Partners For Health",
+      "address": {
+        "street": "44226 10th St. West",
+        "city": "Lancaster",
+        "state": "CA",
+        "zip_code": "93534",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 942-4719",
+      "resource_type": "Food Pantry",
+      "description": "Antelope Valley Partners for Health is a planning and advisory group in the Antelope Valley that implements community and health services through collaboration of local residents, agencies, faith-based organizations and government entities. The organization provides administrative services, community services, emergency food, family support services and volunteer services. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1061710001",
+      "coordinates": {
+        "latitude": 34.686484,
+        "longitude": -118.146755
+      }
+    },
+    {
+      "name": "Audubon Middle School",
+      "address": {
+        "street": "4120 11th Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90008",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://www.audubonms.org/",
+      "coordinates": {
+        "latitude": 34.00938,
+        "longitude": -118.329434
+      }
+    },
+    {
+      "name": "Banning Senior High School",
+      "address": {
+        "street": "1527 Lakme Ave.",
+        "city": "Wilmington",
+        "state": "CA",
+        "zip_code": "90744",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://www.banninghs.org/",
+      "coordinates": {
+        "latitude": 33.794092,
+        "longitude": -118.260955
+      }
+    },
+    {
+      "name": "Barack Obama Preparation Academy",
+      "address": {
+        "street": "1700 W. 46th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90062",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://obamaprepacademy-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.00171,
+        "longitude": -118.30944
+      }
+    },
+    {
+      "name": "Beauty Of Holiness Church",
+      "address": {
+        "street": "44628 10th St. W.",
+        "city": "Lancaster",
+        "state": "CA",
+        "zip_code": "93534",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 528-8170",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides emergency food and personal goods for individuals and families in the Antelope Valley. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069970001",
+      "coordinates": {
+        "latitude": 34.695944,
+        "longitude": -118.147884
+      }
+    },
+    {
+      "name": "Bell Senior High School",
+      "address": {
+        "street": "4328 Bell Ave.",
+        "city": "Bell",
+        "state": "CA",
+        "zip_code": "90201",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://www.bellhs.org/",
+      "coordinates": {
+        "latitude": 33.972827,
+        "longitude": -118.190208
+      }
+    },
+    {
+      "name": "Belvedere Middle School",
+      "address": {
+        "street": "312 N. Record Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90063",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://belvederems-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.03965,
+        "longitude": -118.182039
+      }
+    },
+    {
+      "name": "Berendo Middle School",
+      "address": {
+        "street": "1157 S. Berendo St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90006",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://www.berendoms.net/index.jsp",
+      "coordinates": {
+        "latitude": 34.04932,
+        "longitude": -118.29396
+      }
+    },
+    {
+      "name": "Bernstein Senior High School",
+      "address": {
+        "street": "1309 N. Wilton Place",
+        "city": "Hollywood",
+        "state": "CA",
+        "zip_code": "90028",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "http://hbdragons.com/",
+      "coordinates": {
+        "latitude": 34.0951,
+        "longitude": -118.31381
+      }
+    },
+    {
+      "name": "Bethel Food Bank Outreach",
+      "address": {
+        "street": "1921 N. Garey Ave.",
+        "city": "Pomona",
+        "state": "CA",
+        "zip_code": "91767",
+        "county": "Los Angeles"
+      },
+      "phone": "(909) 630-5883",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, holiday assistance and personal goods for people who live in the San Gabriel and Pomona Valleys, including people who are homeless. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1031949001",
+      "coordinates": {
+        "latitude": 34.081257,
+        "longitude": -117.753058
+      }
+    },
+    {
+      "name": "Bienestar Human Services",
+      "address": {
+        "street": "5326 E. Beverly Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90022",
+        "county": "Los Angeles"
+      },
+      "phone": "(866) 590-6411",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food, HIV/AIDS services, housing services, mental health services and substance use disorder services for adolescents and adults in Los Angeles County. Services are targeted, but not restricted, to the Spanish-speaking community. Many services are restricted to people who are HIV or who have AIDS; age and income restrictions apply for some services; some are targeted to gay and bisexual men. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032919001",
+      "coordinates": {
+        "latitude": 34.030122,
+        "longitude": -118.150592
+      }
+    },
+    {
+      "name": "Boys & Girls Club of Metro Los Angeles: Challengers Club",
+      "address": {
+        "street": "5029 S. Vermont Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90037",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Pantry",
+      "description": "M-F 3:15-4:15PM",
+      "web_link": "https://www.bgcmla.org/",
+      "coordinates": {
+        "latitude": 33.997433,
+        "longitude": -118.291859
+      }
+    },
+    {
+      "name": "Boys & Girls Club of Metro Los Angeles: Jordan Downs",
+      "address": {
+        "street": "2131 East Century Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90002",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Pantry",
+      "description": "M-F 1-2:30PM",
+      "web_link": "https://www.bgcmla.org/",
+      "coordinates": {
+        "latitude": 33.957343,
+        "longitude": -118.235948
+      }
+    },
+    {
+      "name": "Boys & Girls Club of Metro Los Angeles: Watts Willowbrook",
+      "address": {
+        "street": "1339 East 120th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90059",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Pantry",
+      "description": "M-F 3-4PM",
+      "web_link": "https://www.bgcmla.org/",
+      "coordinates": {
+        "latitude": 33.924395,
+        "longitude": -118.25134
+      }
+    },
+    {
+      "name": "Burbank Middle School",
+      "address": {
+        "street": "6460 N. Figueroa St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90042",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://www.lbmsbears.com/",
+      "coordinates": {
+        "latitude": 34.11952,
+        "longitude": -118.18349
+      }
+    },
+    {
+      "name": "Byrd Middle School",
+      "address": {
+        "street": "8501 Arleta Ave.",
+        "city": "Sun Valley",
+        "state": "CA",
+        "zip_code": "91352",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://www.byrdmiddleschool.org/",
+      "coordinates": {
+        "latitude": 34.223963,
+        "longitude": -118.407243
+      }
+    },
+    {
+      "name": "Catholic Charities Of Los Angeles - Glendale Community Center",
+      "address": {
+        "street": "4322 San Fernando Rd.",
+        "city": "Glendale",
+        "state": "CA",
+        "zip_code": "91204",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 318-5707",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides case management and emergency food for low-income individuals and families, including people who are homeless. Services are restricted to Glendale; La Canada; La Crescenta; Los Angeles zip codes 90027, 90039, 90041, 90042, and 90065; Montrose and Tujunga residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009739001",
+      "coordinates": {
+        "latitude": 34.131586,
+        "longitude": -118.260853
+      }
+    },
+    {
+      "name": "Catholic Charities Of Los Angeles - Guadalupe Community Center",
+      "address": {
+        "street": "21600 Hart St.",
+        "city": "Canoga Park",
+        "state": "CA",
+        "zip_code": "91303",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 251-3566",
+      "resource_type": "Food Pantry",
+      "description": "The agency is a community center which provides adult education, early childhood education, emergency food (through its Loaves and Fishes IV program), employment services for refugees, holiday assistance, youth recreation programs and senior programs for people in a specific area of the San Fernando Valley. In addition, the center serves as the administrative site for the San Fernando Pastoral Region Catholic Charities.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009869001",
+      "coordinates": {
+        "latitude": 34.197262,
+        "longitude": -118.600859
+      }
+    },
+    {
+      "name": "Catholic Charities Of Los Angeles - Loaves And Fishes Ii",
+      "address": {
+        "street": "7309 Van Nuys Blvd.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91405",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 997-0943",
+      "resource_type": "Food Pantry",
+      "description": "This program provides emergency food, personal goods and volunteer opportunities. Services are targeted to CalWORKs participants and low-income people, including people who are homeless. Services are restricted to Van Nuys zip codes 91343, 91401, 91402, 91403, 91405, 91406, 91411, 91423, 91436, 91316, 91605 and 91607; North Hollywood; Panorama City; Sherman Oaks; and Encino residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009749001",
+      "coordinates": {
+        "latitude": 34.20334,
+        "longitude": -118.448996
+      }
+    },
+    {
+      "name": "Catholic Charities Of Los Angeles - St Margaret's Center",
+      "address": {
+        "street": "10217 Inglewood Ave.",
+        "city": "Lennox",
+        "state": "CA",
+        "zip_code": "90304",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 672-2208",
+      "resource_type": "Food Pantry",
+      "description": "The center provides advocacy, counseling services, education services, emergency food, homeless support services, immigration services, recreation programs and utility bill assistance to individuals in the South Bay area. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009679001",
+      "coordinates": {
+        "latitude": 33.943447,
+        "longitude": -118.36147
+      }
+    },
+    {
+      "name": "Catholic Charities Of Los Angeles - St Robert's Center",
+      "address": {
+        "street": "211 3rd Ave.",
+        "city": "Venice",
+        "state": "CA",
+        "zip_code": "90291",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 392-8701",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food for residents of Santa Monica, Venice, LAX Airport, West Los Angeles, Beverly Hills, and Culver City areas, including Malibu, Topanga, Pacific Palisades, Brentwood and Bel Air. Geographic restrictions apply for services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009689001",
+      "coordinates": {
+        "latitude": 33.998136,
+        "longitude": -118.477424
+      }
+    },
+    {
+      "name": "Centro Santo Tomas",
+      "address": {
+        "street": "2727 W. Pico Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90006",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 737-3325",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food for people within parish boundaries; zip codes 90006, parts of 90007 and 90019 including people who are homeless or who are undocumented. Additionally, a holiday assistance program is available for emergency food recipients. Limited medical examination services are also provided during the food program hours. Services are restricted to parish boundaries, including zip codes 90006, parts of 90007 and 90019.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033799001",
+      "coordinates": {
+        "latitude": 34.04739,
+        "longitude": -118.29828
+      }
+    },
+    {
+      "name": "Charisma Life Church",
+      "address": {
+        "street": "305 E. Arrow Hwy.",
+        "city": "Pomona",
+        "state": "CA",
+        "zip_code": "91767",
+        "county": "Los Angeles"
+      },
+      "phone": "(909) 626-1281",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in the Pomona area. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069110001",
+      "coordinates": {
+        "latitude": 34.091292,
+        "longitude": -117.745541
+      }
+    },
+    {
+      "name": "Chatsworth Charter High School",
+      "address": {
+        "street": "10027 Lurline Ave.",
+        "city": "Chatsworth",
+        "state": "CA",
+        "zip_code": "91311",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "http://www.chatsworthhs.org/",
+      "coordinates": {
+        "latitude": 34.252584,
+        "longitude": -118.584322
+      }
+    },
+    {
+      "name": "Christian Outreach In Action",
+      "address": {
+        "street": "515 E. 3rd St.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90802",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 432-1440",
+      "resource_type": "Food Pantry",
+      "description": "The organization provides emergency food, holiday assistance, homeless support services and personal goods for people who are in the Long Beach area, including people who are homeless. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1030609001",
+      "coordinates": {
+        "latitude": 33.770721,
+        "longitude": -118.186048
+      }
+    },
+    {
+      "name": "Church Of The Redeemer",
+      "address": {
+        "street": "3739 Monterey Ave.",
+        "city": "Baldwin Park",
+        "state": "CA",
+        "zip_code": "91706",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 960-9585",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and holiday assistance for anyone in need. Services are restricted to Azusa, Baldwin Park, Covina, Duarte, El Monte, Irwindale and La Puente residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033489001",
+      "coordinates": {
+        "latitude": 34.080117,
+        "longitude": -117.976835
+      }
+    },
+    {
+      "name": "City Of Baldwin Park Department Of Recreation And Community Services - Teri G Muse Family Service Center",
+      "address": {
+        "street": "14305 Morgan St.",
+        "city": "Baldwin Park",
+        "state": "CA",
+        "zip_code": "91706",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 813-5270",
+      "resource_type": "Food Pantry",
+      "description": "The Baldwin Park Recreation and Community Services Department provides CalFresh, cooling centers, counseling services, emergency food, health services, personal goods, services for older adults, transportation and youth services for people who live in Baldwin Park including specialized services for senior citizens and for youth. See the separate entry for Baldwin Park Senior Citizens Center. Services are restricted to Baldwin Park residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1021409002",
+      "coordinates": {
+        "latitude": 34.087951,
+        "longitude": -117.962508
+      }
+    },
+    {
+      "name": "City Of Cudahy Parks And Recreation Department - Clara Street Park",
+      "address": {
+        "street": "4835 Clara St.",
+        "city": "Cudahy",
+        "state": "CA",
+        "zip_code": "90201",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 773-5143",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides recreational programs for people of all ages who live in Cudahy. Age requirements are restricted to some services; geographical restrictions apply to some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1063000002",
+      "coordinates": {
+        "latitude": 33.965223,
+        "longitude": -118.182105
+      }
+    },
+    {
+      "name": "City Of Los Angeles Housing And Community Investment Department - West Adams Familysource - 1736 Family Crisis Center",
+      "address": {
+        "street": "2116 Arlington Ave., Ste. 200",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90018",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 737-3900",
+      "resource_type": "Food Pantry",
+      "description": "City of Los Angeles Housing and Community Investment Department provides counseling services, disaster services, emergency food, family life education, family support services and youth services for people of all ages in Los Angeles city. Services are provided through a network of 17 familysource centers and are restricted to residents of Los Angeles.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440005",
+      "coordinates": {
+        "latitude": 34.03746,
+        "longitude": -118.317522
+      }
+    },
+    {
+      "name": "City Of Paramount Department Of Parks And Recreation - Senior Services",
+      "address": {
+        "street": "14400 Paramount Blvd.",
+        "city": "Paramount",
+        "state": "CA",
+        "zip_code": "90723",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 220-2090",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food, senior nutrition programs and services for older adults who reside in Paramount and the surrounding areas.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1008099001",
+      "coordinates": {
+        "latitude": 33.902697,
+        "longitude": -118.159931
+      }
+    },
+    {
+      "name": "Cochran Middle School",
+      "address": {
+        "street": "4066 W. Johnnie Cochran Vista",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90019",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://cochranms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.04259,
+        "longitude": -118.32669
+      }
+    },
+    {
+      "name": "Columbus Middle School",
+      "address": {
+        "street": "22250 Elkwood St.",
+        "city": "Canoga Park",
+        "state": "CA",
+        "zip_code": "91304",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "https://cms-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=i7g1vwok512g&group_id=1500178971613",
+      "coordinates": {
+        "latitude": 34.212611,
+        "longitude": -118.611692
+      }
+    },
+    {
+      "name": "Community Outreach Center",
+      "address": {
+        "street": "11350 Saticoy St.",
+        "city": "Sun Valley",
+        "state": "CA",
+        "zip_code": "91352",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 759-0616",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1065930001",
+      "coordinates": {
+        "latitude": 34.208299,
+        "longitude": -118.377791
+      }
+    },
+    {
+      "name": "Curtiss Middle School",
+      "address": {
+        "street": "1254 E. Helmick St.",
+        "city": "Carson",
+        "state": "CA",
+        "zip_code": "90746",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://curtiss-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.851229,
+        "longitude": -118.250705
+      }
+    },
+    {
+      "name": "Dana Middle School",
+      "address": {
+        "street": "1501 S. Cabrillo Ave.",
+        "city": "San Pedro",
+        "state": "CA",
+        "zip_code": "90731",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "http://danams-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.73052,
+        "longitude": -118.29472
+      }
+    },
+    {
+      "name": "Dorsey Senior High School",
+      "address": {
+        "street": "3537 Farmdale Ave",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90016",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://dorsey-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.02293,
+        "longitude": -118.346166
+      }
+    },
+    {
+      "name": "Dr. Julian Nava Learning Academy",
+      "address": {
+        "street": "1420 E. Adams Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90011",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "http://www.drjuliannavalearningacademy.com/",
+      "coordinates": {
+        "latitude": 34.01535,
+        "longitude": -118.24819
+      }
+    },
+    {
+      "name": "Dream Center, The",
+      "address": {
+        "street": "2301 Bellevue Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90026",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 273-7000",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food, residential treatment for substance use disorders and services for veterans for individuals and families in the central Los Angeles area. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1055789001",
+      "coordinates": {
+        "latitude": 34.074172,
+        "longitude": -118.269311
+      }
+    },
+    {
+      "name": "Dymally High School",
+      "address": {
+        "street": "8800 San Pedro St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90003",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://dymallyhs-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.95724,
+        "longitude": -118.26933
+      }
+    },
+    {
+      "name": "Eagle Rock High School",
+      "address": {
+        "street": "1750 Yosemite Drive",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90041",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://erhs.la/",
+      "coordinates": {
+        "latitude": 34.133169,
+        "longitude": -118.20553
+      }
+    },
+    {
+      "name": "East Valley Senior High School",
+      "address": {
+        "street": "5525 Vineland Ave.",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip_code": "91601",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://www.eastvalleyhs.net/",
+      "coordinates": {
+        "latitude": 34.170767,
+        "longitude": -118.370481
+      }
+    },
+    {
+      "name": "Eastmont Community Center",
+      "address": {
+        "street": "701 S. Hoefner Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90022",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 726-7998",
+      "resource_type": "Food Pantry",
+      "description": "The center provides adult education, advocacy, emergency food, food rescue programs, personal goods, services for older adults and a thrift shop for people who live in Commerce, East Los Angeles and Montebello. Services are targeted, but not restricted, to the Spanish-speaking community. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1021099001",
+      "coordinates": {
+        "latitude": 34.021059,
+        "longitude": -118.149928
+      }
+    },
+    {
+      "name": "Edison Middle School",
+      "address": {
+        "street": "6500 Hooper Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "http://taems-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.980419,
+        "longitude": -118.250193
+      }
+    },
+    {
+      "name": "Ellen Ochoa Learning Center",
+      "address": {
+        "street": "5027 Live Oak St.",
+        "city": "Cudahy",
+        "state": "CA",
+        "zip_code": "90201",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://ellenochoa-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.960662,
+        "longitude": -118.174216
+      }
+    },
+    {
+      "name": "Epiphany Episcopal Church - Lincoln Heights",
+      "address": {
+        "street": "2808 Altura St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90031",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 227-9931",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food to residents of Los Angeles County, including people who are homeless or undocumented. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034599001",
+      "coordinates": {
+        "latitude": 34.075361,
+        "longitude": -118.212644
+      }
+    },
+    {
+      "name": "Fairfax Senior High School",
+      "address": {
+        "street": "7850 Melrose Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90046",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://www.fairfaxhs.org/",
+      "coordinates": {
+        "latitude": 34.083658,
+        "longitude": -118.360668
+      }
+    },
+    {
+      "name": "Family Rescue Center",
+      "address": {
+        "street": "22103 Vanowen St.",
+        "city": "Canoga Park",
+        "state": "CA",
+        "zip_code": "91303",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 884-7587",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides emergency food, personal goods and volunteer opportunities for people who live in the West San Fernando Valley. Service is restricted to residents of zip codes 90290, 91301, 91302, 91303, 91304, 91306, 91307, 91311, 91324, 91335, 91356, 91364, 91367 and 91371.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034089002",
+      "coordinates": {
+        "latitude": 34.193922,
+        "longitude": -118.608566
+      }
+    },
+    {
+      "name": "First Baptist Church Of Long Beach",
+      "address": {
+        "street": "1000 Pine Ave.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90813",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 432-8447",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food and personal goods for people who are in the Long Beach area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1068530001",
+      "coordinates": {
+        "latitude": 33.779819,
+        "longitude": -118.191997
+      }
+    },
+    {
+      "name": "First New Christian Missionary Baptist Church - Food Bank Program",
+      "address": {
+        "street": "1555 W. 108th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90047",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 756-2541",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for families in the Athens and Westmont communities. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1053279001",
+      "coordinates": {
+        "latitude": 33.938489,
+        "longitude": -118.304279
+      }
+    },
+    {
+      "name": "First United Methodist Church Of Compton",
+      "address": {
+        "street": "1025 S. Long Beach Blvd.",
+        "city": "Compton",
+        "state": "CA",
+        "zip_code": "90221",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 639-0775",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food assistance and holiday assistance for people who live in Compton. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033689001",
+      "coordinates": {
+        "latitude": 33.886998,
+        "longitude": -118.206967
+      }
+    },
+    {
+      "name": "Fish Of West Valley",
+      "address": {
+        "street": "20440 Lassen St.",
+        "city": "Chatsworth",
+        "state": "CA",
+        "zip_code": "91311",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 882-3474",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in Chatsworth and adjoining zip code areas. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1021599001",
+      "coordinates": {
+        "latitude": 34.249794,
+        "longitude": -118.578525
+      }
+    },
+    {
+      "name": "Foothill Family Shelter",
+      "address": {
+        "street": "1501 W. 9th St., Ste. D",
+        "city": "Upland",
+        "state": "CA",
+        "zip_code": "91786",
+        "county": "Los Angeles"
+      },
+      "phone": "(909) 920-0453",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides transitional shelter for homeless families with children and emergency food for people in Upland and the surrounding areas. Geographic restrictions apply for services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1037289001",
+      "coordinates": {
+        "latitude": 34.096378,
+        "longitude": -117.679776
+      }
+    },
+    {
+      "name": "Foothill Unity Center Inc - Monrovia",
+      "address": {
+        "street": "790 W. Chestnut Ave.",
+        "city": "Monrovia",
+        "state": "CA",
+        "zip_code": "91106",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 358-3486",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food, health services, holiday assistance, personal goods, and shelter for people who live in the eleven city service areas; services are provided through two sites. The service areas for the Monrovia site are Arcadia, Azusa, Baldwin Park, Bradbury, Duarte, Irwindale, Monrovia, and Sierra Madre; the service areas for the Pasadena site are Altadena, Pasadena, and South Pasadena. Geographic restrictions apply for most services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032679001",
+      "coordinates": {
+        "latitude": 34.142282,
+        "longitude": -118.01608
+      }
+    },
+    {
+      "name": "Foothill Unity Center Inc - Pasadena",
+      "address": {
+        "street": "191 N. Oak Ave.",
+        "city": "Pasadena",
+        "state": "CA",
+        "zip_code": "91107",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 584-7420",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food, health services, holiday assistance, personal goods, and shelter for people who live in the eleven city service areas; services are provided through two sites. The service areas for the Monrovia site are Arcadia, Azusa, Baldwin Park, Bradbury, Duarte, Irwindale, Monrovia, and Sierra Madre; the service areas for the Pasadena site are Altadena, Pasadena, and South Pasadena. Geographic restrictions apply for most services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032679003",
+      "coordinates": {
+        "latitude": 34.149598,
+        "longitude": -118.107841
+      }
+    },
+    {
+      "name": "Fremont Senior High School",
+      "address": {
+        "street": "7676 S. San Pedro St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90003",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "http://www.fremonths.org/",
+      "coordinates": {
+        "latitude": 33.96962,
+        "longitude": -118.26936
+      }
+    },
+    {
+      "name": "Friends In Deed",
+      "address": {
+        "street": "444 E. Washington Blvd.",
+        "city": "Pasadena",
+        "state": "CA",
+        "zip_code": "91104",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 797-6072",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and homeless assistance for homeless women, women who are at-risk of being homeless and low-income families. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1000599001",
+      "coordinates": {
+        "latitude": 34.168673,
+        "longitude": -118.141331
+      }
+    },
+    {
+      "name": "Fulton College Preparatory School",
+      "address": {
+        "street": "7477 Kester Ave.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91405",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://fulton-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.206393,
+        "longitude": -118.457635
+      }
+    },
+    {
+      "name": "Gage Middle School",
+      "address": {
+        "street": "2880 E. Gage Ave.",
+        "city": "Huntington Park",
+        "state": "CA",
+        "zip_code": "90253",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://www.gagems.net/",
+      "coordinates": {
+        "latitude": 33.980753,
+        "longitude": -118.215259
+      }
+    },
+    {
+      "name": "Garfield Senior High School",
+      "address": {
+        "street": "5101 E. 6th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90022",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "http://www.garfieldhs.org/",
+      "coordinates": {
+        "latitude": 34.027735,
+        "longitude": -118.156747
+      }
+    },
+    {
+      "name": "Gompers Middle School",
+      "address": {
+        "street": "234 E. 112th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90061",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://gompersms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.93277,
+        "longitude": -118.27063
+      }
+    },
+    {
+      "name": "Grace Resources Inc",
+      "address": {
+        "street": "45134 N. Sierra Hwy.",
+        "city": "Lancaster",
+        "state": "CA",
+        "zip_code": "93534",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 940-5272",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides education services, emergency food, holiday assistance, personal goods and a thrift shop for people who live in the Antelope Valley, including people who are homeless and undocumented. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033809001",
+      "coordinates": {
+        "latitude": 34.702937,
+        "longitude": -118.137311
+      }
+    },
+    {
+      "name": "Grateful Hearts",
+      "address": {
+        "street": "5420 Katella Ave.",
+        "city": "Los Alamitos",
+        "state": "CA",
+        "zip_code": "90720",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 431-0880",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and volunteer opportunities for people who live in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1063100001",
+      "coordinates": {
+        "latitude": 33.802645,
+        "longitude": -118.038262
+      }
+    },
+    {
+      "name": "Harte Preparatory Middle School",
+      "address": {
+        "street": "9301 S. Hoover St.",
+        "city": "Los Aneles",
+        "state": "CA",
+        "zip_code": "90044",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19647336058044",
+      "coordinates": {
+        "latitude": 33.95181,
+        "longitude": -118.28711
+      }
+    },
+    {
+      "name": "Hathaway-sycamores - Family Resource Center Los Angeles",
+      "address": {
+        "street": "840 N. Ave. 66",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90042",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 257-9600",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides administrative services, family support services, foster care, out-of-home care for boys, and mental health services for families in Los Angeles. Age restrictions apply; DCFS Wraparound services are provided for SPAs 1,2, (Antelope and Santa Clarita valleys) SPA 3, (San Gabriel Valley) and SPA 7, (Southeast LA County); there are no geographic restrictions for other programs.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1008399007",
+      "coordinates": {
+        "latitude": 34.12089,
+        "longitude": -118.1727
+      }
+    },
+    {
+      "name": "Heart Of Compassion Distribution",
+      "address": {
+        "street": "600 S. Maple Ave.",
+        "city": "Montebello",
+        "state": "CA",
+        "zip_code": "90640",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 727-7997",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals and families in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069840001",
+      "coordinates": {
+        "latitude": 34.004458,
+        "longitude": -118.118616
+      }
+    },
+    {
+      "name": "Help Me Help You - Philadelphian Sda Church",
+      "address": {
+        "street": "2640 Santa Fe Ave.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90810",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 612-5001",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides education services, emergency food, health insurance and money management for individuals and families who live in the Los Angeles County area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1053659002",
+      "coordinates": {
+        "latitude": 33.805105,
+        "longitude": -118.215095
+      }
+    },
+    {
+      "name": "Help Me Help You - Stevenson Elementary School",
+      "address": {
+        "street": "515 Lime Ave.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90802",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 612-5001",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides education services, emergency food, health insurance and money management for individuals and families who live in the Los Angeles County area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1066630025",
+      "coordinates": {
+        "latitude": 33.773654,
+        "longitude": -118.184529
+      }
+    },
+    {
+      "name": "Hollenbeck Middle School",
+      "address": {
+        "street": "2510 E. 6th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90023",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://www.hollenbeckmiddleschool.org/",
+      "coordinates": {
+        "latitude": 34.03652,
+        "longitude": -118.21214
+      }
+    },
+    {
+      "name": "Hollypark Umc Outreach Program",
+      "address": {
+        "street": "13000 S. Van Ness Blvd.",
+        "city": "Gardena",
+        "state": "CA",
+        "zip_code": "90249",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 516-6457",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food for people in Los Angeles county. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1064570001",
+      "coordinates": {
+        "latitude": 33.914984,
+        "longitude": -118.317426
+      }
+    },
+    {
+      "name": "Hope Chapel Hermosa Beach",
+      "address": {
+        "street": "2420 Pacific Coast Hwy.",
+        "city": "Hermosa Beach",
+        "state": "CA",
+        "zip_code": "90254",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 374-4673",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, information and referral, and personal goods for people who live in the cities of Carson, El Segundo, Gardena, Harbor City, Harbor Gateway, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Lomita, Manhattan Beach, Redondo Beach, Torrance and Wilmington residents. There are geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1024109001",
+      "coordinates": {
+        "latitude": 33.871518,
+        "longitude": -118.394281
+      }
+    },
+    {
+      "name": "Hope-net - Blessed Sacrament",
+      "address": {
+        "street": "6657 Sunset Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90028",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 874-5577",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067690017",
+      "coordinates": {
+        "latitude": 34.098128,
+        "longitude": -118.335028
+      }
+    },
+    {
+      "name": "Hope-net - First Baptist Church",
+      "address": {
+        "street": "760 S. Westmoreland Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90005",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 384-2151",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059011",
+      "coordinates": {
+        "latitude": 34.05811,
+        "longitude": -118.28889
+      }
+    },
+    {
+      "name": "Maywood Center For Enriched Studies (maces) Magnet",
+      "address": {
+        "street": "5800 King Ave.",
+        "city": "Maywood",
+        "state": "CA",
+        "zip_code": "90270",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://explorelausd.schoolmint.net/school-finder/schools/1541/maywood-center-for-enriched-studies-(maces)-magnet",
+      "coordinates": {
+        "latitude": 33.988019,
+        "longitude": -118.183254
+      }
+    },
+    {
+      "name": "Hope-net - First Church Of The Nazarene",
+      "address": {
+        "street": "3401 W. 3rd St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90020",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 385-6345",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059003",
+      "coordinates": {
+        "latitude": 34.06919,
+        "longitude": -118.28962
+      }
+    },
+    {
+      "name": "Hope-net - First Unitarian",
+      "address": {
+        "street": "2936 W. 8th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90005",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 389-1356",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059009",
+      "coordinates": {
+        "latitude": 34.05758,
+        "longitude": -118.29013
+      }
+    },
+    {
+      "name": "Hope-net - Immanuel Presbyterian Church",
+      "address": {
+        "street": "3300 Wilshire Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90010",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 389-3191",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059002",
+      "coordinates": {
+        "latitude": 34.061611,
+        "longitude": -118.294606
+      }
+    },
+    {
+      "name": "Hope-net - Islamic Center",
+      "address": {
+        "street": "434 S. Vermont Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90020",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 382-9200",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059012",
+      "coordinates": {
+        "latitude": 34.06646,
+        "longitude": -118.29145
+      }
+    },
+    {
+      "name": "Hope-Net - Metropolitan Community Church",
+      "address": {
+        "street": "4607 Prospect Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90027",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 669-3434",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059015",
+      "coordinates": {
+        "latitude": 34.101913,
+        "longitude": -118.289891
+      }
+    },
+    {
+      "name": "Hope-net - Silverlake Community Church",
+      "address": {
+        "street": "2930 Hyperion Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90027",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 663-3151",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059016",
+      "coordinates": {
+        "latitude": 34.109878,
+        "longitude": -118.27057
+      }
+    },
+    {
+      "name": "Hope-net - St James Episcopal Church",
+      "address": {
+        "street": "3903 Wilshire Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90010",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 388-3417",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059004",
+      "coordinates": {
+        "latitude": 34.061868,
+        "longitude": -118.312077
+      }
+    },
+    {
+      "name": "Hope-net - St John's Episcopal",
+      "address": {
+        "street": "514 W. Adams Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90007",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 747-6285",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059014",
+      "coordinates": {
+        "latitude": 34.02767,
+        "longitude": -118.27529
+      }
+    },
+    {
+      "name": "Hope-net - Wilshire Boulevard Temple",
+      "address": {
+        "street": "3663 Wilshire Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90010",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 388-2401",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059005",
+      "coordinates": {
+        "latitude": 34.061882,
+        "longitude": -118.304863
+      }
+    },
+    {
+      "name": "Hope-net - Wilshire Presbyterian Church",
+      "address": {
+        "street": "309 S. Oxford St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90020",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 387-5387",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and housing services for people who live in Los Angeles County. Services are targeted, but not restricted, to the Metro Los Angeles district. Geographic restrictions may apply for some sites.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032059007",
+      "coordinates": {
+        "latitude": 34.06858,
+        "longitude": -118.30803
+      }
+    },
+    {
+      "name": "House Of Yahweh",
+      "address": {
+        "street": "4046 Marine Ave.",
+        "city": "Lawndale",
+        "state": "CA",
+        "zip_code": "90260",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 675-6412",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, homeless support services, personal goods and thrift shops for individuals and families who are in crisis and who live in the South Bay and Southwest areas of Los Angeles County. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1004809001",
+      "coordinates": {
+        "latitude": 33.894504,
+        "longitude": -118.345047
+      }
+    },
+    {
+      "name": "Ilm Foundation",
+      "address": {
+        "street": "2900 W. Slauson Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90043",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals and families, including people who are homeless or undocumented and food volunteer opportunities for students who are living in zip code 90043 and surrounding areas. There are geographic restriction.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069760001",
+      "coordinates": {
+        "latitude": 33.98888,
+        "longitude": -118.32466
+      }
+    },
+    {
+      "name": "Interfaith Food Center",
+      "address": {
+        "street": "11819 Burke St.",
+        "city": "Santa Fe Springs",
+        "state": "CA",
+        "zip_code": "90670",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 903-1478",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for low-income people in the Whittier area including people who are homeless. Service is restricted to residents of La Mirada, Santa Fe Springs and Whittier.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033709001",
+      "coordinates": {
+        "latitude": 33.963051,
+        "longitude": -118.064929
+      }
+    },
+    {
+      "name": "Joy Community Outreach To End Homelessness",
+      "address": {
+        "street": "1938 S. Western Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90018",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 939-5808",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, holiday assistance and personal goods for people of all ages who live in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1043549001",
+      "coordinates": {
+        "latitude": 34.03879,
+        "longitude": -118.30883
+      }
+    },
+    {
+      "name": "Karsh Family Social Service Center",
+      "address": {
+        "street": "3750 W. 6th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90020",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 401-4651",
+      "resource_type": "Food Pantry",
+      "description": "The center provides dental services, education services, emergency food, eye care services, legal services, mental health services and personal goods in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069550001",
+      "coordinates": {
+        "latitude": 34.0634,
+        "longitude": -118.30434
+      }
+    },
+    {
+      "name": "Kennedy Austin Foundation",
+      "address": {
+        "street": "1460 E. Holt Ave., Ste. 182",
+        "city": "Pomona",
+        "state": "CA",
+        "zip_code": "91767",
+        "county": "Los Angeles"
+      },
+      "phone": "(909) 620-0912",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, personal goods, self-help groups and youth services for people who live in Pomona, La Verne, Claremont and San Gabriel Valley. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069340001",
+      "coordinates": {
+        "latitude": 34.06145,
+        "longitude": -117.720739
+      }
+    },
+    {
+      "name": "Kennedy High School",
+      "address": {
+        "street": "11254 Gothic Ave.",
+        "city": "Granada Hills",
+        "state": "CA",
+        "zip_code": "91344",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "https://www.jfkcougars.org/",
+      "coordinates": {
+        "latitude": 34.275246,
+        "longitude": -118.48835
+      }
+    },
+    {
+      "name": "Khalsa Care Foundation",
+      "address": {
+        "street": "9989 Laurel Canyon Blvd.",
+        "city": "Pacoima",
+        "state": "CA",
+        "zip_code": "91331",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Pantry",
+      "description": "The foundation provides emergency food for individuals of all ages, including those that are undocumented, in the San Fernando Valley. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1066120001",
+      "coordinates": {
+        "latitude": 34.251209,
+        "longitude": -118.42447
+      }
+    },
+    {
+      "name": "Latino Equality Alliance: Mi Centro: Pride Pantry",
+      "address": {
+        "street": "553 S. Clarence St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90033",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Pantry",
+      "description": "RSVP here: bit.ly/LEAPridePantry",
+      "web_link": "http://bit.ly/LEAPridePantry",
+      "coordinates": {
+        "latitude": 34.039485,
+        "longitude": -118.223458
+      }
+    },
+    {
+      "name": "Liechty Middle School",
+      "address": {
+        "street": "650 S. Union Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90017",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://liechtyms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.05553,
+        "longitude": -118.270139
+      }
+    },
+    {
+      "name": "Lincoln Senior High School",
+      "address": {
+        "street": "3501 N. Broadway",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90031",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "http://www.lincolnhs.org/",
+      "coordinates": {
+        "latitude": 34.073975,
+        "longitude": -118.203744
+      }
+    },
+    {
+      "name": "Los Angeles Academy Middle School",
+      "address": {
+        "street": "644 56th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90011",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://laacademyms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.99138,
+        "longitude": -118.26401
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - Asian Service Center",
+      "address": {
+        "street": "14112 S. Kingsley Dr.",
+        "city": "Gardena",
+        "state": "CA",
+        "zip_code": "90249",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 217-7300",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food and information and referral to people who live in Los Angeles County. The agency also acts as a cooling center during hot summer months. Services are targeted, but not restricted, to older adults and Asians/Pacific Islanders. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009199001",
+      "coordinates": {
+        "latitude": 33.90287,
+        "longitude": -118.30389
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - Centro Maravilla Service Center",
+      "address": {
+        "street": "4716 E. Cesar E. Chavez Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90022",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 260-2804",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food and information and referral for residents of East Los Angeles zip code 90022. The center also acts as a cooling center during summer months. Geographic and other restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1007719001",
+      "coordinates": {
+        "latitude": 34.040439,
+        "longitude": -118.164394
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - East Los Angeles Community Service Center",
+      "address": {
+        "street": "133 N. Sunol Dr.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90063",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 260-2801",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, information and referral, recreational programs and utility bill assistance to people who live in East Los Angeles. Most services are restricted to East Los Angeles zip codes 90023, 90033 and 90063.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1008469001",
+      "coordinates": {
+        "latitude": 34.037377,
+        "longitude": -118.178424
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - East Rancho Dominguez Service Center",
+      "address": {
+        "street": "15116 S. Atlantic Ave.",
+        "city": "Compton",
+        "state": "CA",
+        "zip_code": "90221",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 603-7401",
+      "resource_type": "Food Pantry",
+      "description": "This center provides community services, emergency food, nutrition programs, services for older adults and utility bill assistance to people who live in Compton, Paramount and the East Rancho Dominguez area. Services are targeted, but not restricted, to Compton, Paramount and East Rancho Dominquez area residents. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1008499001",
+      "coordinates": {
+        "latitude": 33.895363,
+        "longitude": -118.193117
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - Florence - Firestone Service Center",
+      "address": {
+        "street": "7807 S. Compton Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 586-6502",
+      "resource_type": "Food Pantry",
+      "description": "The center provides CalFresh, emergency food, services for older adults and volunteer opportunities in the Florence/Firestone area. The center also houses and coordinates other programs and acts as a cooling center during hot summer months. There are age and geographic restrictions for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1008109001",
+      "coordinates": {
+        "latitude": 33.967955,
+        "longitude": -118.247805
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - San Gabriel Valley Service Center",
+      "address": {
+        "street": "1441 Santa Anita Ave.",
+        "city": "South El Monte",
+        "state": "CA",
+        "zip_code": "91733",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 575-5431",
+      "resource_type": "Food Pantry",
+      "description": "This is a multi-service community center that provides emergency food, information and referral, services for older adults and utility bill assistance for people who live in the San Gabriel Valley and Los Angeles County area.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1025659001",
+      "coordinates": {
+        "latitude": 34.045155,
+        "longitude": -118.045541
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - San Pedro Service Center",
+      "address": {
+        "street": "769 W. Third St.",
+        "city": "San Pedro",
+        "state": "CA",
+        "zip_code": "90731",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 519-6094",
+      "resource_type": "Food Pantry",
+      "description": "The center provides adult education, emergency food, information and referral, services for older adults and utility bill assistance in the Harbor area. The center also acts as a cooling center during hot summer months. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1007729001",
+      "coordinates": {
+        "latitude": 33.74139,
+        "longitude": -118.29386
+      }
+    },
+    {
+      "name": "Los Angeles County Workforce Development, Aging And Community Services - Santa Clarita Valley Service Center",
+      "address": {
+        "street": "26111 Bouquet Canyon Rd.",
+        "city": "Santa Clarita",
+        "state": "CA",
+        "zip_code": "91350",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 254-0070",
+      "resource_type": "Food Pantry",
+      "description": "This is a multipurpose center that provides emergency food, information and referral, recreation programs, utility bill assistance and volunteer opportunities for people who live in the Santa Clarita Valley. The agency also acts as an cooling center during the summer months. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1027159001",
+      "coordinates": {
+        "latitude": 34.41787,
+        "longitude": -118.542306
+      }
+    },
+    {
+      "name": "Los Angeles Regional Food Bank",
+      "address": {
+        "street": "1734 E. 41st St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90058",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 234-3030",
+      "resource_type": "Food Pantry",
+      "description": "The agency operates a food bank and food rescue program which receives and distributes food and delivers it to partner charities who are in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1027049001",
+      "coordinates": {
+        "latitude": 34.00788,
+        "longitude": -118.24202
+      }
+    },
+    {
+      "name": "Maclay Middle School",
+      "address": {
+        "street": "12540 Pierce Ave.",
+        "city": "Pacoima",
+        "state": "CA",
+        "zip_code": "91331",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://maclayms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.272261,
+        "longitude": -118.406166
+      }
+    },
+    {
+      "name": "Manual Arts High School",
+      "address": {
+        "street": "4131 S. Vermont Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90037",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://www.mahs.org/",
+      "coordinates": {
+        "latitude": 34.00857,
+        "longitude": -118.29217
+      }
+    },
+    {
+      "name": "Marina Del Rey Middle School",
+      "address": {
+        "street": "12500 Braddock Drive",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90066",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://www.marinadelreyms.org/pf4/cms2_site/view_deployment?d=x&theme_id=i37cxv1z4o2inp&group_id=1537515271370",
+      "coordinates": {
+        "latitude": 33.987465,
+        "longitude": -118.421812
+      }
+    },
+    {
+      "name": "Markham Middle School",
+      "address": {
+        "street": "1650 E. 104th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90002",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://www.newmarkham.com/",
+      "coordinates": {
+        "latitude": 33.94133,
+        "longitude": -118.24418
+      }
+    },
+    {
+      "name": "Marquez Senior High School",
+      "address": {
+        "street": "6361 Cottage St.",
+        "city": "Huntington Park",
+        "state": "CA",
+        "zip_code": "90255",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://www.marquezhs.net/",
+      "coordinates": {
+        "latitude": 33.982386,
+        "longitude": -118.23384
+      }
+    },
+    {
+      "name": "Mother Of Sorrows Catholic Church",
+      "address": {
+        "street": "114 W. 87th St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90003",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 758-7697",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for people of all ages who live in Los Angeles zip code 90003, including people who are undocumented. Services are restricted to Los Angeles zip code 90003 residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033969001",
+      "coordinates": {
+        "latitude": 33.95854,
+        "longitude": -118.27451
+      }
+    },
+    {
+      "name": "Msgr Wood Community Center",
+      "address": {
+        "street": "2013 Colorado Ave.",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zip_code": "90404",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 829-4411",
+      "resource_type": "Food Pantry",
+      "description": "The community center provides emergency food for low-income people who live in the Santa Monica zip code 90404. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1009659001",
+      "coordinates": {
+        "latitude": 34.026225,
+        "longitude": -118.476852
+      }
+    },
+    {
+      "name": "Muir Middle School",
+      "address": {
+        "street": "5929 S. Vermont Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90044",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "http://www.muirmiddle.org/cms/day?d=x&group_id=1260515558610&day_id=1476860400000&return_url=1474483833504",
+      "coordinates": {
+        "latitude": 33.98703,
+        "longitude": -118.29164
+      }
+    },
+    {
+      "name": "Mulholland Middle School",
+      "address": {
+        "street": "17120 Vanowen Ave.",
+        "city": "Lake Balboa",
+        "state": "CA",
+        "zip_code": "91406",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "https://www.mulhollandms.org/",
+      "coordinates": {
+        "latitude": 34.193659,
+        "longitude": -118.5065
+      }
+    },
+    {
+      "name": "My Friends House Inc",
+      "address": {
+        "street": "3533 W. 58th Pl.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90043",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 292-4939",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides emergency food for people who live in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1063720001",
+      "coordinates": {
+        "latitude": 33.98822,
+        "longitude": -118.33419
+      }
+    },
+    {
+      "name": "Narbonne Senior High School",
+      "address": {
+        "street": "24300 Western Ave.",
+        "city": "Harbor City",
+        "state": "CA",
+        "zip_code": "90710",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://www.narbonnehsgauchos.com/",
+      "coordinates": {
+        "latitude": 33.803817,
+        "longitude": -118.307247
+      }
+    },
+    {
+      "name": "North Hollywood Interfaith Food Pantry",
+      "address": {
+        "street": "4390 Colfax Ave.",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip_code": "91604",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 760-3575",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and information and referral for people who live primarily in North Hollywood, Studio City, Sun Valley and surrounding areas. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032349001",
+      "coordinates": {
+        "latitude": 34.149969,
+        "longitude": -118.387554
+      }
+    },
+    {
+      "name": "North Valley Caring Services Inc",
+      "address": {
+        "street": "15453 Rayen St.",
+        "city": "North Hills",
+        "state": "CA",
+        "zip_code": "91343",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 891-0481",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides education services, emergency food, holiday assistance, homeless support services and recreational programs for people who live in North Hills. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1043779001",
+      "coordinates": {
+        "latitude": 34.232022,
+        "longitude": -118.469299
+      }
+    },
+    {
+      "name": "Our Lady Queen Of Angels Catholic Church",
+      "address": {
+        "street": "535 N. Main St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90012",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 629-3101",
+      "resource_type": "Food Pantry",
+      "description": "This church provides clothing, emergency food and holiday assistance for low-income people who primarily lives in the 90012 zip code area, including people who are homeless. Services are targeted, but not restricted, to the Spanish-speaking community. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033679001",
+      "coordinates": {
+        "latitude": 34.0569,
+        "longitude": -118.2394
+      }
+    },
+    {
+      "name": "Our Saviour Center",
+      "address": {
+        "street": "4368 Santa Anita Ave.",
+        "city": "El Monte",
+        "state": "CA",
+        "zip_code": "91731",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 579-2190",
+      "resource_type": "Food Pantry",
+      "description": "This center provides emergency food, health services, motel vouchers and recreational programs for low-income people who live in El Monte and South El Monte. Services are restricted to El Monte and South El Monte residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032009001",
+      "coordinates": {
+        "latitude": 34.085669,
+        "longitude": -118.029273
+      }
+    },
+    {
+      "name": "Palmdale 7th Day Adventist Church Community Services",
+      "address": {
+        "street": "1758 E. Avenue R",
+        "city": "Palmdale",
+        "state": "CA",
+        "zip_code": "93550",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 947-8496",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides clothing and emergency food for people who live in the Antelope Valley including Lake Los Angeles, Little Rock, Lancaster and Palmdale. Services are targeted, but not restricted, to Antelope Valley residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034759001",
+      "coordinates": {
+        "latitude": 34.408383,
+        "longitude": -118.123597
+      }
+    },
+    {
+      "name": "Palms Middle School",
+      "address": {
+        "street": "10860 Woodbine St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90034",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://www.palmsmiddleschool.org/pf4/cms2_site/view_deployment?d=x&theme_id=ri241g29ausyn3u&group_id=1500178974193",
+      "coordinates": {
+        "latitude": 34.023755,
+        "longitude": -118.416564
+      }
+    },
+    {
+      "name": "Panorama Senior High School",
+      "address": {
+        "street": "8015 Van Nuys Blvd.",
+        "city": "Panorama City",
+        "state": "CA",
+        "zip_code": "91402",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://www.panoramahs.org/",
+      "coordinates": {
+        "latitude": 34.21646,
+        "longitude": -118.448966
+      }
+    },
+    {
+      "name": "Peace Lutheran Church",
+      "address": {
+        "street": "11690 Fenton Ave.",
+        "city": "Lake View Terrace",
+        "state": "CA",
+        "zip_code": "91342",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 899-3950",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and food rescue programs for people in the Lake View Terrace area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1057220001",
+      "coordinates": {
+        "latitude": 34.282477,
+        "longitude": -118.391701
+      }
+    },
+    {
+      "name": "Peary Middle School",
+      "address": {
+        "street": "1415 W. Gardena Blvd.",
+        "city": "Gardena",
+        "state": "CA",
+        "zip_code": "90247",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://pearyms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.884711,
+        "longitude": -118.300184
+      }
+    },
+    {
+      "name": "Pico Union Project",
+      "address": {
+        "street": "1153 Valencia St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90015",
+        "county": "Los Angeles"
+      },
+      "phone": "213-915-0084",
+      "resource_type": "Emergency Food Distribution",
+      "description": "Non-profit organization giving away free bags of produce and some toys and household goods on Tuesdays and Fridays from 12:30pm-3:00pm.",
+      "web_link": "http://picounionproject.org/",
+      "coordinates": {
+        "latitude": 34.04582,
+        "longitude": -118.27406
+      }
+    },
+    {
+      "name": "Porter Middle School",
+      "address": {
+        "street": "15960 Kingsbury St.",
+        "city": "Granada Hills",
+        "state": "CA",
+        "zip_code": "91344",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "https://www.porterms.com/",
+      "coordinates": {
+        "latitude": 34.263422,
+        "longitude": -118.480304
+      }
+    },
+    {
+      "name": "Rancho Dominguez Preparatory School",
+      "address": {
+        "street": "4110 Santa Fe Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "80910",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://rdps-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=i15cl1wmb23jn&group_id=1500178973693",
+      "coordinates": {
+        "latitude": 33.833068,
+        "longitude": -118.215017
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - Calvary Baptist Of Pacoima (life Center)",
+      "address": {
+        "street": "12900 Vaughn St.",
+        "city": "San Fernando",
+        "state": "CA",
+        "zip_code": "91340",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 470-1480",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440005",
+      "coordinates": {
+        "latitude": 34.288124,
+        "longitude": -118.413365
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - Leaves Of Healing Tabernacle",
+      "address": {
+        "street": "9420 Lurline Ave., #D",
+        "city": "Chatsworth",
+        "state": "CA",
+        "zip_code": "91311",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 700-1374",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440006",
+      "coordinates": {
+        "latitude": 34.241929,
+        "longitude": -118.584019
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - New Hope Church",
+      "address": {
+        "street": "14539 Sylvan St.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91411",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 294-7777",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067430004",
+      "coordinates": {
+        "latitude": 34.184803,
+        "longitude": -118.450075
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - Rock Of The Valley",
+      "address": {
+        "street": "7722 Kester Ave.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91405",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 781-4156",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067430006",
+      "coordinates": {
+        "latitude": 34.210903,
+        "longitude": -118.457332
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - St Andrew And St Charles Church",
+      "address": {
+        "street": "16651 Rinaldi St.",
+        "city": "Granada Hills",
+        "state": "CA",
+        "zip_code": "91344",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 366-7541",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440004",
+      "coordinates": {
+        "latitude": 34.279498,
+        "longitude": -118.494981
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - The House",
+      "address": {
+        "street": "18515 Sherman Way",
+        "city": "Reseda",
+        "state": "CA",
+        "zip_code": "91335",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 631-2741",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440003",
+      "coordinates": {
+        "latitude": 34.201255,
+        "longitude": -118.53663
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - Valley Korean United Methodist Church",
+      "address": {
+        "street": "10408 Balboa Blvd.",
+        "city": "Granda Hills",
+        "state": "CA",
+        "zip_code": "91344",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 366-0089",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440007",
+      "coordinates": {
+        "latitude": 34.259525,
+        "longitude": -118.502107
+      }
+    },
+    {
+      "name": "Rescue Mission Alliance - Valley Food Bank - Valley Park Church",
+      "address": {
+        "street": "16514 Nordhoff St.",
+        "city": "North Hills",
+        "state": "CA",
+        "zip_code": "91343",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 894-9316",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for individuals, couples, families and seniors who live in the San Fernando Valley area. Services are targeted but not restricted to San Fernando Valley residents. No food is distributed from the Administrative Site. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067440002",
+      "coordinates": {
+        "latitude": 34.235526,
+        "longitude": -118.492631
+      }
+    },
+    {
+      "name": "RFK/UCLA Community School",
+      "address": {
+        "street": "700 S. Mariposa Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90005",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://rfkschools-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.05966,
+        "longitude": -118.29858
+      }
+    },
+    {
+      "name": "Romer Middle School",
+      "address": {
+        "street": "6501 Laurel Canyon Blvd.",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip_code": "91606",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://romerms-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.188657,
+        "longitude": -118.39672
+      }
+    },
+    {
+      "name": "Saint Mark United Methodist Church",
+      "address": {
+        "street": "8305 S. Gramercy Pl.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90047",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 753-3535",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food service to individuals who live in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1061650001",
+      "coordinates": {
+        "latitude": 33.96321,
+        "longitude": -118.3135
+      }
+    },
+    {
+      "name": "Salvation Army - Southern California Divisional Headquarters - Los Angeles Family Services Office - On Hold",
+      "address": {
+        "street": "906 S. Francisco St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90015",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 896-9178",
+      "resource_type": "Food Pantry",
+      "description": "This office oversees the programs, services, and operations of Salvation Army sites throughout Southern California. Locally, this office oversees 51 Salvation Army Corps Community Centers, seven Service Extension offices, three Silvercrest Residences for older adults, and a number of other Salvation Army programs located throughout Los Angeles County and surrounding counties. Direct services provided by this office include Disaster Services and Volunteer Opportunities. PROGRAMS INCLUDE Hospitality House - Santa Ana Salvation Army - Alegria Salvation Army - His House Salvation Army Bell Shelter Salvation Army Bellflower Corps Salvation Army Corps Community Center - Burbank Salvation Army Corps Community Center - Compton Salvation Army Corps Community Center - East Los Angeles Temple Salvation Army Corps Community Center - Glendale Salvation Army Corps Community Center - Hollywood Salvation Army Corps Community Center - Inglewood Salvation Army Corps Community Center - Lancaster Salvation Army Corps Community Center - Long Beach Salvation Army Corps Community Center - Pomona Salvation Army Corps Community Center - Redondo Beach Salvation Army Corps Community Center - San Fernando Valley Salvation Army Corps Community Center - San Pedro Salvation Army Corps Community Center - Santa Monica Salvation Army Corps Community Center - Whittier Salvation Army Family Service Office - Los Angeles Salvation Army Los Angeles Day Care Center Salvation Army Los Angeles Korean Corps Salvation Army Missing Persons Department Salvation Army Red Shield Youth and Community Center Salvation Army San Gabriel Corps Salvation Army Service Extension Office - Newhall Salvation Army Thrift Stores Salvation Army Westwood Transitional Village",
+      "web_link": "https://www.211la.org/211search/more?site_id=1000529003",
+      "coordinates": {
+        "latitude": 34.04652,
+        "longitude": -118.26488
+      }
+    },
+    {
+      "name": "Salvation Army - Stillman Sawyer Family Center",
+      "address": {
+        "street": "820 Lomita Blvd.",
+        "city": "Harbor City",
+        "state": "CA",
+        "zip_code": "90710",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 835-1986",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, holiday assistance and personal goods for families, couples and individuals who live in the South Bay area of Los Angeles County. Services are restricted to Carson, Harbor City, Lomita, Torrance, and Wilmington.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032499001",
+      "coordinates": {
+        "latitude": 33.797917,
+        "longitude": -118.290714
+      }
+    },
+    {
+      "name": "Salvation Army Corps Community Center - Compton",
+      "address": {
+        "street": "736 E. Compton Blvd.",
+        "city": "Compton",
+        "state": "CA",
+        "zip_code": "90221",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 639-0362",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, holiday assistance, recreational programs, transportation, and utility bill assistance for families, couples and individuals who live in Compton and Lynwood zip codes 90220, 90221, 90222 and 90262. The agency also offers social and recreational activities for youth and adults; and services for older adults. Advocacy and information and referral services are available for adults who receive other services provided by this agency.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1007579001",
+      "coordinates": {
+        "latitude": 33.895636,
+        "longitude": -118.215217
+      }
+    },
+    {
+      "name": "Salvation Army Corps Community Center - East Los Angeles Temple",
+      "address": {
+        "street": "140 N. Eastman Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90063",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 263-7577",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and utility bill assistance for people who live in the East Los Angeles area. Services are targeted, but not restricted, to East Los Angeles residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1015859001",
+      "coordinates": {
+        "latitude": 34.037121,
+        "longitude": -118.185623
+      }
+    },
+    {
+      "name": "Salvation Army Corps Community Center - Glendale",
+      "address": {
+        "street": "320 W. Windsor Rd.",
+        "city": "Glendale",
+        "state": "CA",
+        "zip_code": "91204",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 246-5586",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, holiday assistance, nutrition programs, recreational programs and shelter for people who live in Glendale and Burbank areas. Income, age, and geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1020599001",
+      "coordinates": {
+        "latitude": 34.136364,
+        "longitude": -118.258671
+      }
+    },
+    {
+      "name": "Salvation Army Corps Community Center - Long Beach",
+      "address": {
+        "street": "3092 Long Beach Blvd.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90807",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 426-7637",
+      "resource_type": "Food Pantry",
+      "description": "This agency offers counseling services, emergency food, holiday assistance, social and recreational activities and transportation for youth and adults who live in Long Beach, Signal Hill and Lakewood. The agency also provides administrative services for and houses the Salvation Army's Long Beach Family Service Office which offers a variety of services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1015559001",
+      "coordinates": {
+        "latitude": 33.813162,
+        "longitude": -118.189027
+      }
+    },
+    {
+      "name": "Salvation Army Corps Community Center - Santa Monica",
+      "address": {
+        "street": "1533 4th St.",
+        "city": "Santa Monica",
+        "state": "CA",
+        "zip_code": "90401",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 451-1358",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, homeless support services, holiday assistance, personal goods, services for older adults and recreational programs for people of all ages who are in Santa Monica, including people who are homeless. Services are restricted to Santa Monica and Venice residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1010729001",
+      "coordinates": {
+        "latitude": 34.014751,
+        "longitude": -118.492991
+      }
+    },
+    {
+      "name": "Salvation Army Corps Community Center - South Central Los Angeles",
+      "address": {
+        "street": "7651 S. Central Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 586-0288",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides early childhood education, emergency food, holiday assistance, recreational programs and utility bill assistance for adults and youth who live in South Central Los Angeles. There are geographic and age restrictions for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1067390001",
+      "coordinates": {
+        "latitude": 33.97007,
+        "longitude": -118.25659
+      }
+    },
+    {
+      "name": "Salvation Army Corps Family Service Center - San Pedro",
+      "address": {
+        "street": "138 S. Bandini St.",
+        "city": "San Pedro",
+        "state": "CA",
+        "zip_code": "90731",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 832-7228",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides adult day care, emergency food, holiday assistance, recreational programs and utility bill assistance for people who live in San Pedro, Harbor City, Lomita, South Carson and Wilmington. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1015569001",
+      "coordinates": {
+        "latitude": 33.742672,
+        "longitude": -118.29854
+      }
+    },
+    {
+      "name": "Salvation Army Service Extension Office - Newhall",
+      "address": {
+        "street": "229-35 Lyons Ave., Ste. E",
+        "city": "Newhall",
+        "state": "CA",
+        "zip_code": "91321",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 799-7486",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, holiday assistance, personal goods, recreational programs and utility bill assistance for people who live in Aqua Dulce, Newhall, Santa Clarita, Saugus, Val Verde and Valencia. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1044589001",
+      "coordinates": {
+        "latitude": 34.379445,
+        "longitude": -118.542519
+      }
+    },
+    {
+      "name": "Salvation Army Southeast Communities Corp - Huntington Park",
+      "address": {
+        "street": "2965 E. Gage Ave.",
+        "city": "Huntington Park",
+        "state": "CA",
+        "zip_code": "90255",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 587-4221",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides a companionship program, emergency food, holiday assistance, homeless support services, personal enrichment and utility bill assistance for people who live in Bell, Bell Gardens, Cudahy, Downey, Huntington Park, Maywood, South Gate, Vernon and Walnut Park. Information and referral services are also available for adults who receive other services provided by this agency. It also serves as one of the five intake sites for the Bell shelter (see separate entry for details). Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1005099001",
+      "coordinates": {
+        "latitude": 33.981338,
+        "longitude": -118.216662
+      }
+    },
+    {
+      "name": "San Fernando Senior High School",
+      "address": {
+        "street": "11133 O\u2019Melveny Ave.",
+        "city": "San Fernando",
+        "state": "CA",
+        "zip_code": "90140",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://www.sanfernandohs.com/",
+      "coordinates": {
+        "latitude": 34.27238,
+        "longitude": -118.44232
+      }
+    },
+    {
+      "name": "San Gabriel Mission Christian Service Center",
+      "address": {
+        "street": "254 1/2 S. Santa Anita",
+        "city": "San Gabriel",
+        "state": "CA",
+        "zip_code": "91776",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 289-5165",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food, holiday assistance, personal goods for low-income and homeless people of all ages who live in the city of San Gabriel and volunteer opportunities for people 18 years and older who live in San Gabriel Valley. Service is restricted to San Gabriel Mission Parish boundaries.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1032019001",
+      "coordinates": {
+        "latitude": 34.098623,
+        "longitude": -118.107642
+      }
+    },
+    {
+      "name": "Santa Clarita Valley Food Pantry",
+      "address": {
+        "street": "24133 Railroad Ave.",
+        "city": "Newhall",
+        "state": "CA",
+        "zip_code": "91321",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 255-9078",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for low-income families in the Santa Clarita Valley, including people who are homeless or homebound. Services are restricted to Santa Clarita Valley residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033729001",
+      "coordinates": {
+        "latitude": 34.376488,
+        "longitude": -118.525257
+      }
+    },
+    {
+      "name": "Santee High School",
+      "address": {
+        "street": "1921 Maple Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90011",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://www.santeefalcons.org/",
+      "coordinates": {
+        "latitude": 34.028881,
+        "longitude": -118.262204
+      }
+    },
+    {
+      "name": "Sepulveda Middle School",
+      "address": {
+        "street": "15330 Plummer St.",
+        "city": "North Hills",
+        "state": "CA",
+        "zip_code": "91343",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "https://sepulvedams-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 34.242569,
+        "longitude": -118.466362
+      }
+    },
+    {
+      "name": "Shekinah Worship Center",
+      "address": {
+        "street": "42640 10th St. West",
+        "city": "Lancaster",
+        "state": "CA",
+        "zip_code": "93534",
+        "county": "Los Angeles"
+      },
+      "phone": "(661) 940-8378",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food to individuals in the Antelope Valley. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1053649001",
+      "coordinates": {
+        "latitude": 34.658923,
+        "longitude": -118.147572
+      }
+    },
+    {
+      "name": "Shepherd's Pantry",
+      "address": {
+        "street": "1418 Arrow Hwy.",
+        "city": "Irwindale",
+        "state": "CA",
+        "zip_code": "91706",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 305-0392",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, information and referral, personal goods and volunteer opportunities for people who live in the San Gabriel Valley area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1055249001",
+      "coordinates": {
+        "latitude": 34.114878,
+        "longitude": -117.976492
+      }
+    },
+    {
+      "name": "Shepherd's Pantry - Baldwin Park",
+      "address": {
+        "street": "13020 Francisquito Ave.",
+        "city": "Baldwin Park",
+        "state": "CA",
+        "zip_code": "91706",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 671-0090",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, information and referral, personal goods and volunteer opportunities for people who live in the San Gabriel Valley area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1068660026",
+      "coordinates": {
+        "latitude": 34.078848,
+        "longitude": -117.988895
+      }
+    },
+    {
+      "name": "Shepherd's Pantry - Glendora",
+      "address": {
+        "street": "657 E. Arrow Hwy., Ste. J",
+        "city": "Glendora",
+        "state": "CA",
+        "zip_code": "91740",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 852-7630",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, information and referral, personal goods and volunteer opportunities for people who live in the San Gabriel Valley area. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1070880002",
+      "coordinates": {
+        "latitude": 34.107059,
+        "longitude": -117.850815
+      }
+    },
+    {
+      "name": "Sotomayor Arts/Sciences Magnet",
+      "address": {
+        "street": "2050 N. San Fernando Road",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90065",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://www.sotomayor.la/",
+      "coordinates": {
+        "latitude": 34.113092,
+        "longitude": -118.244239
+      }
+    },
+    {
+      "name": "South East Senior High School",
+      "address": {
+        "street": "2720 Tweedy Blvd.",
+        "city": "South Gate",
+        "state": "CA",
+        "zip_code": "90280",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://southeast-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=iy2g2g20dp65c6&group_id=1500178973927",
+      "coordinates": {
+        "latitude": 33.945802,
+        "longitude": -118.221722
+      }
+    },
+    {
+      "name": "South Gate Senior High School",
+      "address": {
+        "street": "3351 Firestone Blvd.",
+        "city": "South Gate",
+        "state": "CA",
+        "zip_code": "90080",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://www.southgatehs.org/",
+      "coordinates": {
+        "latitude": 33.954756,
+        "longitude": -118.209863
+      }
+    },
+    {
+      "name": "Sova Food Pantry And Resource Center - Valley",
+      "address": {
+        "street": "16439 Vanowen St.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91406",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 988-7682",
+      "resource_type": "Food Pantry",
+      "description": "The administrative office provides information on Sova emergency food programs in West Los Angeles and San Fernando Valley. Services are targeted, but not restricted to West Los Angeles and San Fernando Valley residents. There are geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034469004",
+      "coordinates": {
+        "latitude": 34.194285,
+        "longitude": -118.491601
+      }
+    },
+    {
+      "name": "Sova Food Pantry And Resource Center - West",
+      "address": {
+        "street": "8846 W. Pico Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90035",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 988-7682",
+      "resource_type": "Food Pantry",
+      "description": "The administrative office provides information on Sova emergency food programs in West Los Angeles and San Fernando Valley. Services are targeted, but not restricted to West Los Angeles and San Fernando Valley residents. There are geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034469003",
+      "coordinates": {
+        "latitude": 34.05482,
+        "longitude": -118.38486
+      }
+    },
+    {
+      "name": "Sowing Seeds For Life",
+      "address": {
+        "street": "1350 Arrow Hwy.",
+        "city": "La Verne",
+        "state": "CA",
+        "zip_code": "91750",
+        "county": "Los Angeles"
+      },
+      "phone": "(909) 293-7735",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1069090001",
+      "coordinates": {
+        "latitude": 34.100366,
+        "longitude": -117.785848
+      }
+    },
+    {
+      "name": "St Athanasius And St Paul",
+      "address": {
+        "street": "840 Echo Park Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90026",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 482-2040",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for people who live in Los Angeles. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034819001",
+      "coordinates": {
+        "latitude": 34.073261,
+        "longitude": -118.259383
+      }
+    },
+    {
+      "name": "St Augustine Volunteer Emergency Services",
+      "address": {
+        "street": "3850 Jasmine Ave.",
+        "city": "Culver City",
+        "state": "CA",
+        "zip_code": "90232",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 838-2702",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people who live in Culver City and portions of Los Angeles zip codes 90034. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034269001",
+      "coordinates": {
+        "latitude": 34.02097,
+        "longitude": -118.400864
+      }
+    },
+    {
+      "name": "St Charles Holy Family Service Center",
+      "address": {
+        "street": "10825 Moorpark St.",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip_code": "91602",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 985-7365",
+      "resource_type": "Food Pantry",
+      "description": "The center provides emergency food, homeless support services, household goods and personal goods for families who live within parish boundaries which extend north to Victory Blvd., south to Mulholland, east to Hollywood Way and west to Laurel Canyon, including people who are undocumented. Services are also available for people who are homeless. Services are restricted to parish boundaries residents. Persons living outside our boundaries may receive assistance one time.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033469001",
+      "coordinates": {
+        "latitude": 34.150476,
+        "longitude": -118.36688
+      }
+    },
+    {
+      "name": "St Elisabeth Catholic Church - Service Center Distribution Site",
+      "address": {
+        "street": "6640 Cedros Ave.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91405",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 779-1756",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides emergency food and personal goods for people who live in Van Nuys. Services are restricted to Van Nuys residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033819002",
+      "coordinates": {
+        "latitude": 34.191841,
+        "longitude": -118.452856
+      }
+    },
+    {
+      "name": "St Ferdinand Outreach Center",
+      "address": {
+        "street": "1040 Coronel St.",
+        "city": "San Fernando",
+        "state": "CA",
+        "zip_code": "91340",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 365-3194",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and utility bill assistance for people in the San Fernando Valley. Geographic restrictions apply for some services.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1060870001",
+      "coordinates": {
+        "latitude": 34.280797,
+        "longitude": -118.442999
+      }
+    },
+    {
+      "name": "St Frances Of Rome Food Bank",
+      "address": {
+        "street": "501 E. Foothill Blvd.",
+        "city": "Azusa",
+        "state": "CA",
+        "zip_code": "91702",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 969-1829",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and holiday assistance for people in Azusa, including people who are undocumented and who receive government assistance. Services are restricted to Azusa residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034319001",
+      "coordinates": {
+        "latitude": 34.133596,
+        "longitude": -117.902425
+      }
+    },
+    {
+      "name": "St Gerard Majella Church",
+      "address": {
+        "street": "4439 Inglewood Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90066",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 390-5034",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people who live in West Los Angeles. The service area includes part of zip codes 90066 and 90230. Service is restricted to West Los Angeles residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1043399001",
+      "coordinates": {
+        "latitude": 33.995411,
+        "longitude": -118.418931
+      }
+    },
+    {
+      "name": "St Gregory's Episcopal Church",
+      "address": {
+        "street": "6201 Willow St.",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip_code": "90815",
+        "county": "Los Angeles"
+      },
+      "phone": "(562) 420-1311",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for people in Long Beach and surrounding areas. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1068460001",
+      "coordinates": {
+        "latitude": 33.803666,
+        "longitude": -118.110506
+      }
+    },
+    {
+      "name": "St John's Episcopal Cathedral",
+      "address": {
+        "street": "514 W. Adams Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90007",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 747-6285",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for people in Los Angeles County, including people who are homeless or undocumented. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033989001",
+      "coordinates": {
+        "latitude": 34.02767,
+        "longitude": -118.27529
+      }
+    },
+    {
+      "name": "St Joseph Center",
+      "address": {
+        "street": "204 Hampton Dr.",
+        "city": "Venice",
+        "state": "CA",
+        "zip_code": "90291",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 396-6468",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides advocacy, child care, emergency food, employment services, homeless support services, mental health services, personal goods, services for older adults and services to veterans to assist low-income and homeless individuals and families in the West Los Angeles area. The agency primarily serves people who live in Palms, Mar Vista, Venice, Santa Monica, Culver City, Inglewood, or Los Angeles zip codes 90025, 90034, 90036, 90064, and 90066. Some of the programs have extended boundaries.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1012479001",
+      "coordinates": {
+        "latitude": 33.998086,
+        "longitude": -118.478322
+      }
+    },
+    {
+      "name": "St Lawrence Martyr Catholic Church",
+      "address": {
+        "street": "1900 S. Prospect Ave.",
+        "city": "Redondo Beach",
+        "state": "CA",
+        "zip_code": "90277",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 540-0329",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for people who live in Redondo Beach and Torrance, including people who are homeless or undocumented. Services are restricted to Redondo Beach and Torrance residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033579001",
+      "coordinates": {
+        "latitude": 33.818004,
+        "longitude": -118.376422
+      }
+    },
+    {
+      "name": "St Lawrence Of Brindisi",
+      "address": {
+        "street": "10122 Compton Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90002",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 567-1439",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in the Los Angeles zip code areas 90002 and 90059, including families who receive government assistance. Service is restricted to Los Angeles zip code 90002 and 90059 residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034069001",
+      "coordinates": {
+        "latitude": 33.944618,
+        "longitude": -118.246051
+      }
+    },
+    {
+      "name": "St Margaret Mary's Christian Services",
+      "address": {
+        "street": "25511 Eshelman Ave.",
+        "city": "Lomita",
+        "state": "CA",
+        "zip_code": "90717",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 326-3364",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food to people who live in Carson, Harbor City, Lomita, Torrance and Wilmington, including people who are homeless and undocumented. Services are restricted to Carson, Harbor City, Lomita, Torrance and Wilmington residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1038009001",
+      "coordinates": {
+        "latitude": 33.791648,
+        "longitude": -118.315354
+      }
+    },
+    {
+      "name": "St Martin De Porres Outreach Center",
+      "address": {
+        "street": "1345 Turnbull Canyon Rd.",
+        "city": "Hacienda Heights",
+        "state": "CA",
+        "zip_code": "91745",
+        "county": "Los Angeles"
+      },
+      "phone": "(626) 330-2269",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for low-income residents of zip codes 91744, 91745, 91746, 91748 and 91790. Geographic restrictions apply for service.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034479001",
+      "coordinates": {
+        "latitude": 34.010603,
+        "longitude": -117.979765
+      }
+    },
+    {
+      "name": "St Philip's Episcopal Church",
+      "address": {
+        "street": "2800 Stanford Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90011",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 232-3494",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for low-income families and individuals who are Los Angeles zip code 90011 residents. Geographic restrictions apply.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1036229001",
+      "coordinates": {
+        "latitude": 34.018765,
+        "longitude": -118.260616
+      }
+    },
+    {
+      "name": "St Philomena Church",
+      "address": {
+        "street": "21900 S. Main St.",
+        "city": "Carson",
+        "state": "CA",
+        "zip_code": "90745",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 835-7161",
+      "resource_type": "Food Pantry",
+      "description": "The program provides emergency food and holiday assistance for low-income residents of Carson, Long Beach zip code 90810 and Torrance zip code 90502. Services are restricted to Carson, Long Beach zip code 90810 and Torrance zip code 90502 residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033639001",
+      "coordinates": {
+        "latitude": 33.828859,
+        "longitude": -118.276746
+      }
+    },
+    {
+      "name": "St Timothy Church",
+      "address": {
+        "street": "312 S. Oleander Ave.",
+        "city": "Compton",
+        "state": "CA",
+        "zip_code": "90222",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 638-6319",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1070870001",
+      "coordinates": {
+        "latitude": 33.897743,
+        "longitude": -118.228676
+      }
+    },
+    {
+      "name": "St. Francis Center",
+      "address": {
+        "street": "1835 S. Hope St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90015",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 747-5347",
+      "resource_type": "Food Pantry",
+      "description": "Since 1972, St. Francis Center has provided relief and support to homeless and extremely low-income individuals and families in Los Angeles. Much more than a soup kitchen or a food pantry, we offer a unique range of services to sustain and empower those in need and engaging volunteer opportunities Los Angeles. Welcoming all with joy, dignity and compassion, we dedicate ourselves every day to Serving Hope in our community.",
+      "web_link": "https://www.stfranciscenterla.org/",
+      "coordinates": {
+        "latitude": 34.034172,
+        "longitude": -118.269835
+      }
+    },
+    {
+      "name": "Sutter Middle School",
+      "address": {
+        "street": "7330 Winnetka Ave.",
+        "city": "Winnetka",
+        "state": "CA",
+        "zip_code": "91306",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHWEST",
+      "web_link": "http://www.sutterms.org/",
+      "coordinates": {
+        "latitude": 34.204345,
+        "longitude": -118.5708
+      }
+    },
+    {
+      "name": "Sylmar Charter High School",
+      "address": {
+        "street": "13050 Borden Ave.",
+        "city": "Sylmar",
+        "state": "CA",
+        "zip_code": "91342",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://www.sylmarhs.org/",
+      "coordinates": {
+        "latitude": 34.307455,
+        "longitude": -118.44291
+      }
+    },
+    {
+      "name": "Tamarind Avenue 7th Day Adventist Church",
+      "address": {
+        "street": "417 S. Tamarind Ave.",
+        "city": "Compton",
+        "state": "CA",
+        "zip_code": "90220",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 774-0181",
+      "resource_type": "Food Pantry",
+      "description": "The church provides emergency food for low-income people who live in Compton, including people who are undocumented. Services are targeted, but not restricted, to Compton residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1033759001",
+      "coordinates": {
+        "latitude": 33.892704,
+        "longitude": -118.221952
+      }
+    },
+    {
+      "name": "Toberman Neighborhood Center",
+      "address": {
+        "street": "131 N. Grand Ave.",
+        "city": "San Pedro",
+        "state": "CA",
+        "zip_code": "90731",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 832-1145",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides advocacy, counseling services, emergency food, holiday assistance, personal goods, recreational programs, substance use disorder services, volunteer opportunities and youth services. Services are restricted to San Pedro residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1015589001",
+      "coordinates": {
+        "latitude": 33.7439,
+        "longitude": -118.29025
+      }
+    },
+    {
+      "name": "Trinity Baptist Church",
+      "address": {
+        "street": "2040 W. Jefferson Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90018",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 735-0044",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food and personal goods for people who are in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034549001",
+      "coordinates": {
+        "latitude": 34.02542,
+        "longitude": -118.31636
+      }
+    },
+    {
+      "name": "University High School Charter",
+      "address": {
+        "street": "11800 Texas Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90025",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://universitywildcats.edlioschool.com/",
+      "coordinates": {
+        "latitude": 34.045599,
+        "longitude": -118.461368
+      }
+    },
+    {
+      "name": "Valley Beth Shalom",
+      "address": {
+        "street": "15739 Ventura Blvd.",
+        "city": "Encino",
+        "state": "CA",
+        "zip_code": "91436",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 788-6000",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for people in the San Fernando Valley, including people who are undocumented, homeless or receive government assistance. Services are restricted to San Fernando Valley residents.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034609001",
+      "coordinates": {
+        "latitude": 34.155634,
+        "longitude": -118.476537
+      }
+    },
+    {
+      "name": "Van Nuys Senior High School",
+      "address": {
+        "street": "6535 Cedric Ave.",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip_code": "91411",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://ca02225230.schoolwires.net/",
+      "coordinates": {
+        "latitude": 34.178522,
+        "longitude": -118.459234
+      }
+    },
+    {
+      "name": "Verdugo Hills Senior High School",
+      "address": {
+        "street": "10625 Plainview Ave.",
+        "city": "Tujunga",
+        "state": "CA",
+        "zip_code": "91042",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT NORTHEAST",
+      "web_link": "https://www.verdugohs.org/",
+      "coordinates": {
+        "latitude": 34.262085,
+        "longitude": -118.298223
+      }
+    },
+    {
+      "name": "Virgil Middle School",
+      "address": {
+        "street": "152 N. Vermont Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90004",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT CENTRAL",
+      "web_link": "https://www.virgilms.net/",
+      "coordinates": {
+        "latitude": 34.07413,
+        "longitude": -118.29148
+      }
+    },
+    {
+      "name": "Washington Preparatory Senior High School",
+      "address": {
+        "street": "10860 S. Denker Ave.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90047",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT WEST",
+      "web_link": "https://washingtonprephs-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=7i5c2audq5rp&group_id=1468166152105",
+      "coordinates": {
+        "latitude": 33.937274,
+        "longitude": -118.302517
+      }
+    },
+    {
+      "name": "Wayside United Methodist Church",
+      "address": {
+        "street": "25904 Cayuga Ave.",
+        "city": "Lomita",
+        "state": "CA",
+        "zip_code": "90717",
+        "county": "Los Angeles"
+      },
+      "phone": "(310) 326-4541",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food for low-income families and individuals who live in Harbor City, Lomita, San Pedro, Torrance and Wilmington, including people who are undocumented. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1054699001",
+      "coordinates": {
+        "latitude": 33.787858,
+        "longitude": -118.309293
+      }
+    },
+    {
+      "name": "West Angeles Community Development Corporation - Community Assistance Department",
+      "address": {
+        "street": "3045 Crenshaw Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90016",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 733-8300",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides emergency food, employment services, holiday assistance, housing services, information and referral and transportation and utility bill assistance for low-income people who live in South Central Los Angeles. Services are restricted to SPA 6 and surrounding areas.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1038419002",
+      "coordinates": {
+        "latitude": 34.026291,
+        "longitude": -118.335293
+      }
+    },
+    {
+      "name": "West Valley Food Pantry",
+      "address": {
+        "street": "5700 Rudnick Ave.",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip_code": "91367",
+        "county": "Los Angeles"
+      },
+      "phone": "(818) 346-5554",
+      "resource_type": "Food Pantry",
+      "description": "This agency provides emergency food, personal goods and volunteer opportunities for people who live in the West San Fernando Valley. Service is restricted to residents of zip codes 90290, 91301, 91302, 91303, 91304, 91306, 91307, 91311, 91324, 91335, 91356, 91364, 91367 and 91371.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1034089001",
+      "coordinates": {
+        "latitude": 34.173881,
+        "longitude": -118.612121
+      }
+    },
+    {
+      "name": "West Washington L A Foursquare Church",
+      "address": {
+        "street": "5175 1/2 W. Washington Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90016",
+        "county": "Los Angeles"
+      },
+      "phone": "(323) 939-4716",
+      "resource_type": "Food Pantry",
+      "description": "The organization provides emergency food services for Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1070240001",
+      "coordinates": {
+        "latitude": 34.041444,
+        "longitude": -118.353385
+      }
+    },
+    {
+      "name": "White Middle School",
+      "address": {
+        "street": "22102 S. Figueroa St.",
+        "city": "Carson",
+        "state": "CA",
+        "zip_code": "90745",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT SOUTH",
+      "web_link": "https://whitems-lausd-ca.schoolloop.com/",
+      "coordinates": {
+        "latitude": 33.826468,
+        "longitude": -118.285426
+      }
+    },
+    {
+      "name": "Wilson Senior High School",
+      "address": {
+        "street": "4500 Multnomah St.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90032",
+        "county": "Los Angeles"
+      },
+      "phone": NaN,
+      "resource_type": "Food Distribution Program",
+      "description": "LOCAL DISTRICT EAST",
+      "web_link": "https://www.ibwilsonmules.com/",
+      "coordinates": {
+        "latitude": 34.070159,
+        "longitude": -118.187404
+      }
+    },
+    {
+      "name": "World Harvest Food Bank",
+      "address": {
+        "street": "3100 Venice Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90019",
+        "county": "Los Angeles"
+      },
+      "phone": "(213) 746-2227",
+      "resource_type": "Food Pantry",
+      "description": "The agency provides advocacy, emergency food and holiday assistance to people who live in Los Angeles County. There are no geographic restrictions.",
+      "web_link": "https://www.211la.org/211search/more?site_id=1055189001",
+      "coordinates": {
+        "latitude": 34.043345,
+        "longitude": -118.318162
+      }
+    }
+  ],
+  "total_count": 211
+}
