@@ -1,6 +1,7 @@
 {
   "los_angeles_food_resources": [
     {
+      "id": "aids-project-los-angeles-vance-north-necessities-o",
       "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program - Long Beach",
       "address": {
         "street": "3935 E. 10th St.",
@@ -19,6 +20,7 @@
       }
     },
     {
+      "id": "aaron-community-cultural-center",
       "name": "Aaron Community Cultural Center",
       "address": {
         "street": "1010-B W. 108th St.",
@@ -37,6 +39,7 @@
       }
     },
     {
+      "id": "action-food-pantry",
       "name": "Action Food Pantry",
       "address": {
         "street": "17880 E. Covina Blvd.",
@@ -55,6 +58,7 @@
       }
     },
     {
+      "id": "aids-food-store-the",
       "name": "Aids Food Store , The",
       "address": {
         "street": "3935 E. 10th St.",
@@ -73,6 +77,7 @@
       }
     },
     {
+      "id": "aids-project-los-angeles-vance-north-necessities-o-2",
       "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program",
       "address": {
         "street": "611 S. Kingsley Dr.",
@@ -91,6 +96,7 @@
       }
     },
     {
+      "id": "aids-project-los-angeles-vance-north-necessities-o-3",
       "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program - North Hollywood",
       "address": {
         "street": "7336 Bellaire Ave.",
@@ -109,6 +115,7 @@
       }
     },
     {
+      "id": "aids-project-los-angeles-vance-north-necessities-o-4",
       "name": "Aids Project Los Angeles - Vance North Necessities Of Life Program - S Mark Taper Center",
       "address": {
         "street": "1807 E. 120th St.",
@@ -127,6 +134,7 @@
       }
     },
     {
+      "id": "all-peoples-christian-center",
       "name": "All Peoples Christian Center",
       "address": {
         "street": "822 E. 20th St.",
@@ -145,6 +153,7 @@
       }
     },
     {
+      "id": "altadena-seventhday-adventist-church",
       "name": "Altadena Seventh-day Adventist Church",
       "address": {
         "street": "2609 N. Lincoln Ave.",
@@ -163,6 +172,7 @@
       }
     },
     {
+      "id": "amigos-sin-barreras-friends-without-barriers-circl",
       "name": "Amigos Sin Barreras - Friends Without Barriers - Circle Of Life Food Pantry",
       "address": {
         "street": "20413 Berendo St.",
@@ -181,6 +191,7 @@
       }
     },
     {
+      "id": "angelica-lutheran-church",
       "name": "Angelica Lutheran Church",
       "address": {
         "street": "1345 S. Burlington Ave.",
@@ -199,6 +210,7 @@
       }
     },
     {
+      "id": "antelope-valley-partners-for-health",
       "name": "Antelope Valley Partners For Health",
       "address": {
         "street": "44226 10th St. West",
@@ -217,6 +229,7 @@
       }
     },
     {
+      "id": "audubon-middle-school",
       "name": "Audubon Middle School",
       "address": {
         "street": "4120 11th Ave.",
@@ -225,7 +238,6 @@
         "zip_code": "90008",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://www.audubonms.org/",
@@ -235,6 +247,7 @@
       }
     },
     {
+      "id": "banning-senior-high-school",
       "name": "Banning Senior High School",
       "address": {
         "street": "1527 Lakme Ave.",
@@ -243,7 +256,6 @@
         "zip_code": "90744",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://www.banninghs.org/",
@@ -253,6 +265,7 @@
       }
     },
     {
+      "id": "barack-obama-preparation-academy",
       "name": "Barack Obama Preparation Academy",
       "address": {
         "street": "1700 W. 46th St.",
@@ -261,7 +274,6 @@
         "zip_code": "90062",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://obamaprepacademy-lausd-ca.schoolloop.com/",
@@ -271,6 +283,7 @@
       }
     },
     {
+      "id": "beauty-of-holiness-church",
       "name": "Beauty Of Holiness Church",
       "address": {
         "street": "44628 10th St. W.",
@@ -289,6 +302,7 @@
       }
     },
     {
+      "id": "bell-senior-high-school",
       "name": "Bell Senior High School",
       "address": {
         "street": "4328 Bell Ave.",
@@ -297,7 +311,6 @@
         "zip_code": "90201",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://www.bellhs.org/",
@@ -307,6 +320,7 @@
       }
     },
     {
+      "id": "belvedere-middle-school",
       "name": "Belvedere Middle School",
       "address": {
         "street": "312 N. Record Ave.",
@@ -315,7 +329,6 @@
         "zip_code": "90063",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://belvederems-lausd-ca.schoolloop.com/",
@@ -325,6 +338,7 @@
       }
     },
     {
+      "id": "berendo-middle-school",
       "name": "Berendo Middle School",
       "address": {
         "street": "1157 S. Berendo St.",
@@ -333,7 +347,6 @@
         "zip_code": "90006",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://www.berendoms.net/index.jsp",
@@ -343,6 +356,7 @@
       }
     },
     {
+      "id": "bernstein-senior-high-school",
       "name": "Bernstein Senior High School",
       "address": {
         "street": "1309 N. Wilton Place",
@@ -351,7 +365,6 @@
         "zip_code": "90028",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "http://hbdragons.com/",
@@ -361,6 +374,7 @@
       }
     },
     {
+      "id": "bethel-food-bank-outreach",
       "name": "Bethel Food Bank Outreach",
       "address": {
         "street": "1921 N. Garey Ave.",
@@ -379,6 +393,7 @@
       }
     },
     {
+      "id": "bienestar-human-services",
       "name": "Bienestar Human Services",
       "address": {
         "street": "5326 E. Beverly Blvd.",
@@ -397,6 +412,7 @@
       }
     },
     {
+      "id": "boys-girls-club-of-metro-los-angeles-challengers-c",
       "name": "Boys & Girls Club of Metro Los Angeles: Challengers Club",
       "address": {
         "street": "5029 S. Vermont Ave.",
@@ -405,7 +421,6 @@
         "zip_code": "90037",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Pantry",
       "description": "M-F 3:15-4:15PM",
       "web_link": "https://www.bgcmla.org/",
@@ -415,6 +430,7 @@
       }
     },
     {
+      "id": "boys-girls-club-of-metro-los-angeles-jordan-downs",
       "name": "Boys & Girls Club of Metro Los Angeles: Jordan Downs",
       "address": {
         "street": "2131 East Century Blvd.",
@@ -423,7 +439,6 @@
         "zip_code": "90002",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Pantry",
       "description": "M-F 1-2:30PM",
       "web_link": "https://www.bgcmla.org/",
@@ -433,6 +448,7 @@
       }
     },
     {
+      "id": "boys-girls-club-of-metro-los-angeles-watts-willowb",
       "name": "Boys & Girls Club of Metro Los Angeles: Watts Willowbrook",
       "address": {
         "street": "1339 East 120th St.",
@@ -441,7 +457,6 @@
         "zip_code": "90059",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Pantry",
       "description": "M-F 3-4PM",
       "web_link": "https://www.bgcmla.org/",
@@ -451,6 +466,7 @@
       }
     },
     {
+      "id": "burbank-middle-school",
       "name": "Burbank Middle School",
       "address": {
         "street": "6460 N. Figueroa St.",
@@ -459,7 +475,6 @@
         "zip_code": "90042",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://www.lbmsbears.com/",
@@ -469,6 +484,7 @@
       }
     },
     {
+      "id": "byrd-middle-school",
       "name": "Byrd Middle School",
       "address": {
         "street": "8501 Arleta Ave.",
@@ -477,7 +493,6 @@
         "zip_code": "91352",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://www.byrdmiddleschool.org/",
@@ -487,6 +502,7 @@
       }
     },
     {
+      "id": "catholic-charities-of-los-angeles-glendale-communi",
       "name": "Catholic Charities Of Los Angeles - Glendale Community Center",
       "address": {
         "street": "4322 San Fernando Rd.",
@@ -505,6 +521,7 @@
       }
     },
     {
+      "id": "catholic-charities-of-los-angeles-guadalupe-commun",
       "name": "Catholic Charities Of Los Angeles - Guadalupe Community Center",
       "address": {
         "street": "21600 Hart St.",
@@ -523,6 +540,7 @@
       }
     },
     {
+      "id": "catholic-charities-of-los-angeles-loaves-and-fishe",
       "name": "Catholic Charities Of Los Angeles - Loaves And Fishes Ii",
       "address": {
         "street": "7309 Van Nuys Blvd.",
@@ -541,6 +559,7 @@
       }
     },
     {
+      "id": "catholic-charities-of-los-angeles-st-margarets-cen",
       "name": "Catholic Charities Of Los Angeles - St Margaret's Center",
       "address": {
         "street": "10217 Inglewood Ave.",
@@ -559,6 +578,7 @@
       }
     },
     {
+      "id": "catholic-charities-of-los-angeles-st-roberts-cente",
       "name": "Catholic Charities Of Los Angeles - St Robert's Center",
       "address": {
         "street": "211 3rd Ave.",
@@ -577,6 +597,7 @@
       }
     },
     {
+      "id": "centro-santo-tomas",
       "name": "Centro Santo Tomas",
       "address": {
         "street": "2727 W. Pico Blvd.",
@@ -595,6 +616,7 @@
       }
     },
     {
+      "id": "charisma-life-church",
       "name": "Charisma Life Church",
       "address": {
         "street": "305 E. Arrow Hwy.",
@@ -613,6 +635,7 @@
       }
     },
     {
+      "id": "chatsworth-charter-high-school",
       "name": "Chatsworth Charter High School",
       "address": {
         "street": "10027 Lurline Ave.",
@@ -621,7 +644,6 @@
         "zip_code": "91311",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "http://www.chatsworthhs.org/",
@@ -631,6 +653,7 @@
       }
     },
     {
+      "id": "christian-outreach-in-action",
       "name": "Christian Outreach In Action",
       "address": {
         "street": "515 E. 3rd St.",
@@ -649,6 +672,7 @@
       }
     },
     {
+      "id": "church-of-the-redeemer",
       "name": "Church Of The Redeemer",
       "address": {
         "street": "3739 Monterey Ave.",
@@ -667,6 +691,7 @@
       }
     },
     {
+      "id": "city-of-baldwin-park-department-of-recreation-and-",
       "name": "City Of Baldwin Park Department Of Recreation And Community Services - Teri G Muse Family Service Center",
       "address": {
         "street": "14305 Morgan St.",
@@ -685,6 +710,7 @@
       }
     },
     {
+      "id": "city-of-cudahy-parks-and-recreation-department-cla",
       "name": "City Of Cudahy Parks And Recreation Department - Clara Street Park",
       "address": {
         "street": "4835 Clara St.",
@@ -703,6 +729,7 @@
       }
     },
     {
+      "id": "city-of-los-angeles-housing-and-community-investme",
       "name": "City Of Los Angeles Housing And Community Investment Department - West Adams Familysource - 1736 Family Crisis Center",
       "address": {
         "street": "2116 Arlington Ave., Ste. 200",
@@ -721,6 +748,7 @@
       }
     },
     {
+      "id": "city-of-paramount-department-of-parks-and-recreati",
       "name": "City Of Paramount Department Of Parks And Recreation - Senior Services",
       "address": {
         "street": "14400 Paramount Blvd.",
@@ -739,6 +767,7 @@
       }
     },
     {
+      "id": "cochran-middle-school",
       "name": "Cochran Middle School",
       "address": {
         "street": "4066 W. Johnnie Cochran Vista",
@@ -747,7 +776,6 @@
         "zip_code": "90019",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://cochranms-lausd-ca.schoolloop.com/",
@@ -757,6 +785,7 @@
       }
     },
     {
+      "id": "columbus-middle-school",
       "name": "Columbus Middle School",
       "address": {
         "street": "22250 Elkwood St.",
@@ -765,7 +794,6 @@
         "zip_code": "91304",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "https://cms-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=i7g1vwok512g&group_id=1500178971613",
@@ -775,6 +803,7 @@
       }
     },
     {
+      "id": "community-outreach-center",
       "name": "Community Outreach Center",
       "address": {
         "street": "11350 Saticoy St.",
@@ -793,6 +822,7 @@
       }
     },
     {
+      "id": "curtiss-middle-school",
       "name": "Curtiss Middle School",
       "address": {
         "street": "1254 E. Helmick St.",
@@ -801,7 +831,6 @@
         "zip_code": "90746",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://curtiss-lausd-ca.schoolloop.com/",
@@ -811,6 +840,7 @@
       }
     },
     {
+      "id": "dana-middle-school",
       "name": "Dana Middle School",
       "address": {
         "street": "1501 S. Cabrillo Ave.",
@@ -819,7 +849,6 @@
         "zip_code": "90731",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "http://danams-lausd-ca.schoolloop.com/",
@@ -829,6 +858,7 @@
       }
     },
     {
+      "id": "dorsey-senior-high-school",
       "name": "Dorsey Senior High School",
       "address": {
         "street": "3537 Farmdale Ave",
@@ -837,7 +867,6 @@
         "zip_code": "90016",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://dorsey-lausd-ca.schoolloop.com/",
@@ -847,6 +876,7 @@
       }
     },
     {
+      "id": "dr-julian-nava-learning-academy",
       "name": "Dr. Julian Nava Learning Academy",
       "address": {
         "street": "1420 E. Adams Blvd.",
@@ -855,7 +885,6 @@
         "zip_code": "90011",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "http://www.drjuliannavalearningacademy.com/",
@@ -865,6 +894,7 @@
       }
     },
     {
+      "id": "dream-center-the",
       "name": "Dream Center, The",
       "address": {
         "street": "2301 Bellevue Ave.",
@@ -883,6 +913,7 @@
       }
     },
     {
+      "id": "dymally-high-school",
       "name": "Dymally High School",
       "address": {
         "street": "8800 San Pedro St.",
@@ -891,7 +922,6 @@
         "zip_code": "90003",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://dymallyhs-lausd-ca.schoolloop.com/",
@@ -901,6 +931,7 @@
       }
     },
     {
+      "id": "eagle-rock-high-school",
       "name": "Eagle Rock High School",
       "address": {
         "street": "1750 Yosemite Drive",
@@ -909,7 +940,6 @@
         "zip_code": "90041",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://erhs.la/",
@@ -919,6 +949,7 @@
       }
     },
     {
+      "id": "east-valley-senior-high-school",
       "name": "East Valley Senior High School",
       "address": {
         "street": "5525 Vineland Ave.",
@@ -927,7 +958,6 @@
         "zip_code": "91601",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://www.eastvalleyhs.net/",
@@ -937,6 +967,7 @@
       }
     },
     {
+      "id": "eastmont-community-center",
       "name": "Eastmont Community Center",
       "address": {
         "street": "701 S. Hoefner Ave.",
@@ -955,6 +986,7 @@
       }
     },
     {
+      "id": "edison-middle-school",
       "name": "Edison Middle School",
       "address": {
         "street": "6500 Hooper Ave.",
@@ -963,7 +995,6 @@
         "zip_code": "90001",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "http://taems-lausd-ca.schoolloop.com/",
@@ -973,6 +1004,7 @@
       }
     },
     {
+      "id": "ellen-ochoa-learning-center",
       "name": "Ellen Ochoa Learning Center",
       "address": {
         "street": "5027 Live Oak St.",
@@ -981,7 +1013,6 @@
         "zip_code": "90201",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://ellenochoa-lausd-ca.schoolloop.com/",
@@ -991,6 +1022,7 @@
       }
     },
     {
+      "id": "epiphany-episcopal-church-lincoln-heights",
       "name": "Epiphany Episcopal Church - Lincoln Heights",
       "address": {
         "street": "2808 Altura St.",
@@ -1009,6 +1041,7 @@
       }
     },
     {
+      "id": "fairfax-senior-high-school",
       "name": "Fairfax Senior High School",
       "address": {
         "street": "7850 Melrose Ave.",
@@ -1017,7 +1050,6 @@
         "zip_code": "90046",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://www.fairfaxhs.org/",
@@ -1027,6 +1059,7 @@
       }
     },
     {
+      "id": "family-rescue-center",
       "name": "Family Rescue Center",
       "address": {
         "street": "22103 Vanowen St.",
@@ -1045,6 +1078,7 @@
       }
     },
     {
+      "id": "first-baptist-church-of-long-beach",
       "name": "First Baptist Church Of Long Beach",
       "address": {
         "street": "1000 Pine Ave.",
@@ -1063,6 +1097,7 @@
       }
     },
     {
+      "id": "first-new-christian-missionary-baptist-church-food",
       "name": "First New Christian Missionary Baptist Church - Food Bank Program",
       "address": {
         "street": "1555 W. 108th St.",
@@ -1081,6 +1116,7 @@
       }
     },
     {
+      "id": "first-united-methodist-church-of-compton",
       "name": "First United Methodist Church Of Compton",
       "address": {
         "street": "1025 S. Long Beach Blvd.",
@@ -1099,6 +1135,7 @@
       }
     },
     {
+      "id": "fish-of-west-valley",
       "name": "Fish Of West Valley",
       "address": {
         "street": "20440 Lassen St.",
@@ -1117,6 +1154,7 @@
       }
     },
     {
+      "id": "foothill-family-shelter",
       "name": "Foothill Family Shelter",
       "address": {
         "street": "1501 W. 9th St., Ste. D",
@@ -1135,6 +1173,7 @@
       }
     },
     {
+      "id": "foothill-unity-center-inc-monrovia",
       "name": "Foothill Unity Center Inc - Monrovia",
       "address": {
         "street": "790 W. Chestnut Ave.",
@@ -1153,6 +1192,7 @@
       }
     },
     {
+      "id": "foothill-unity-center-inc-pasadena",
       "name": "Foothill Unity Center Inc - Pasadena",
       "address": {
         "street": "191 N. Oak Ave.",
@@ -1171,6 +1211,7 @@
       }
     },
     {
+      "id": "fremont-senior-high-school",
       "name": "Fremont Senior High School",
       "address": {
         "street": "7676 S. San Pedro St.",
@@ -1179,7 +1220,6 @@
         "zip_code": "90003",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "http://www.fremonths.org/",
@@ -1189,6 +1229,7 @@
       }
     },
     {
+      "id": "friends-in-deed",
       "name": "Friends In Deed",
       "address": {
         "street": "444 E. Washington Blvd.",
@@ -1207,6 +1248,7 @@
       }
     },
     {
+      "id": "fulton-college-preparatory-school",
       "name": "Fulton College Preparatory School",
       "address": {
         "street": "7477 Kester Ave.",
@@ -1215,7 +1257,6 @@
         "zip_code": "91405",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://fulton-lausd-ca.schoolloop.com/",
@@ -1225,6 +1266,7 @@
       }
     },
     {
+      "id": "gage-middle-school",
       "name": "Gage Middle School",
       "address": {
         "street": "2880 E. Gage Ave.",
@@ -1233,7 +1275,6 @@
         "zip_code": "90253",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://www.gagems.net/",
@@ -1243,6 +1284,7 @@
       }
     },
     {
+      "id": "garfield-senior-high-school",
       "name": "Garfield Senior High School",
       "address": {
         "street": "5101 E. 6th St.",
@@ -1251,7 +1293,6 @@
         "zip_code": "90022",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "http://www.garfieldhs.org/",
@@ -1261,6 +1302,7 @@
       }
     },
     {
+      "id": "gompers-middle-school",
       "name": "Gompers Middle School",
       "address": {
         "street": "234 E. 112th St.",
@@ -1269,7 +1311,6 @@
         "zip_code": "90061",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://gompersms-lausd-ca.schoolloop.com/",
@@ -1279,6 +1320,7 @@
       }
     },
     {
+      "id": "grace-resources-inc",
       "name": "Grace Resources Inc",
       "address": {
         "street": "45134 N. Sierra Hwy.",
@@ -1297,6 +1339,7 @@
       }
     },
     {
+      "id": "grateful-hearts",
       "name": "Grateful Hearts",
       "address": {
         "street": "5420 Katella Ave.",
@@ -1315,6 +1358,7 @@
       }
     },
     {
+      "id": "harte-preparatory-middle-school",
       "name": "Harte Preparatory Middle School",
       "address": {
         "street": "9301 S. Hoover St.",
@@ -1323,7 +1367,6 @@
         "zip_code": "90044",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://www.cde.ca.gov/schooldirectory/details?cdscode=19647336058044",
@@ -1333,6 +1376,7 @@
       }
     },
     {
+      "id": "hathawaysycamores-family-resource-center-los-angel",
       "name": "Hathaway-sycamores - Family Resource Center Los Angeles",
       "address": {
         "street": "840 N. Ave. 66",
@@ -1351,6 +1395,7 @@
       }
     },
     {
+      "id": "heart-of-compassion-distribution",
       "name": "Heart Of Compassion Distribution",
       "address": {
         "street": "600 S. Maple Ave.",
@@ -1369,6 +1414,7 @@
       }
     },
     {
+      "id": "help-me-help-you-philadelphian-sda-church",
       "name": "Help Me Help You - Philadelphian Sda Church",
       "address": {
         "street": "2640 Santa Fe Ave.",
@@ -1387,6 +1433,7 @@
       }
     },
     {
+      "id": "help-me-help-you-stevenson-elementary-school",
       "name": "Help Me Help You - Stevenson Elementary School",
       "address": {
         "street": "515 Lime Ave.",
@@ -1405,6 +1452,7 @@
       }
     },
     {
+      "id": "hollenbeck-middle-school",
       "name": "Hollenbeck Middle School",
       "address": {
         "street": "2510 E. 6th St.",
@@ -1413,7 +1461,6 @@
         "zip_code": "90023",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://www.hollenbeckmiddleschool.org/",
@@ -1423,6 +1470,7 @@
       }
     },
     {
+      "id": "hollypark-umc-outreach-program",
       "name": "Hollypark Umc Outreach Program",
       "address": {
         "street": "13000 S. Van Ness Blvd.",
@@ -1441,6 +1489,7 @@
       }
     },
     {
+      "id": "hope-chapel-hermosa-beach",
       "name": "Hope Chapel Hermosa Beach",
       "address": {
         "street": "2420 Pacific Coast Hwy.",
@@ -1459,6 +1508,7 @@
       }
     },
     {
+      "id": "hopenet-blessed-sacrament",
       "name": "Hope-net - Blessed Sacrament",
       "address": {
         "street": "6657 Sunset Blvd.",
@@ -1477,6 +1527,7 @@
       }
     },
     {
+      "id": "hopenet-first-baptist-church",
       "name": "Hope-net - First Baptist Church",
       "address": {
         "street": "760 S. Westmoreland Ave.",
@@ -1495,6 +1546,7 @@
       }
     },
     {
+      "id": "maywood-center-for-enriched-studies-maces-magnet",
       "name": "Maywood Center For Enriched Studies (maces) Magnet",
       "address": {
         "street": "5800 King Ave.",
@@ -1503,7 +1555,6 @@
         "zip_code": "90270",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://explorelausd.schoolmint.net/school-finder/schools/1541/maywood-center-for-enriched-studies-(maces)-magnet",
@@ -1513,6 +1564,7 @@
       }
     },
     {
+      "id": "hopenet-first-church-of-the-nazarene",
       "name": "Hope-net - First Church Of The Nazarene",
       "address": {
         "street": "3401 W. 3rd St.",
@@ -1531,6 +1583,7 @@
       }
     },
     {
+      "id": "hopenet-first-unitarian",
       "name": "Hope-net - First Unitarian",
       "address": {
         "street": "2936 W. 8th St.",
@@ -1549,6 +1602,7 @@
       }
     },
     {
+      "id": "hopenet-immanuel-presbyterian-church",
       "name": "Hope-net - Immanuel Presbyterian Church",
       "address": {
         "street": "3300 Wilshire Blvd.",
@@ -1567,6 +1621,7 @@
       }
     },
     {
+      "id": "hopenet-islamic-center",
       "name": "Hope-net - Islamic Center",
       "address": {
         "street": "434 S. Vermont Ave.",
@@ -1585,6 +1640,7 @@
       }
     },
     {
+      "id": "hopenet-metropolitan-community-church",
       "name": "Hope-Net - Metropolitan Community Church",
       "address": {
         "street": "4607 Prospect Ave.",
@@ -1603,6 +1659,7 @@
       }
     },
     {
+      "id": "hopenet-silverlake-community-church",
       "name": "Hope-net - Silverlake Community Church",
       "address": {
         "street": "2930 Hyperion Ave.",
@@ -1621,6 +1678,7 @@
       }
     },
     {
+      "id": "hopenet-st-james-episcopal-church",
       "name": "Hope-net - St James Episcopal Church",
       "address": {
         "street": "3903 Wilshire Blvd.",
@@ -1639,6 +1697,7 @@
       }
     },
     {
+      "id": "hopenet-st-johns-episcopal",
       "name": "Hope-net - St John's Episcopal",
       "address": {
         "street": "514 W. Adams Blvd.",
@@ -1657,6 +1716,7 @@
       }
     },
     {
+      "id": "hopenet-wilshire-boulevard-temple",
       "name": "Hope-net - Wilshire Boulevard Temple",
       "address": {
         "street": "3663 Wilshire Blvd.",
@@ -1675,6 +1735,7 @@
       }
     },
     {
+      "id": "hopenet-wilshire-presbyterian-church",
       "name": "Hope-net - Wilshire Presbyterian Church",
       "address": {
         "street": "309 S. Oxford St.",
@@ -1693,6 +1754,7 @@
       }
     },
     {
+      "id": "house-of-yahweh",
       "name": "House Of Yahweh",
       "address": {
         "street": "4046 Marine Ave.",
@@ -1711,6 +1773,7 @@
       }
     },
     {
+      "id": "ilm-foundation",
       "name": "Ilm Foundation",
       "address": {
         "street": "2900 W. Slauson Ave.",
@@ -1719,7 +1782,6 @@
         "zip_code": "90043",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Pantry",
       "description": "The agency provides emergency food for individuals and families, including people who are homeless or undocumented and food volunteer opportunities for students who are living in zip code 90043 and surrounding areas. There are geographic restriction.",
       "web_link": "https://www.211la.org/211search/more?site_id=1069760001",
@@ -1729,6 +1791,7 @@
       }
     },
     {
+      "id": "interfaith-food-center",
       "name": "Interfaith Food Center",
       "address": {
         "street": "11819 Burke St.",
@@ -1747,6 +1810,7 @@
       }
     },
     {
+      "id": "joy-community-outreach-to-end-homelessness",
       "name": "Joy Community Outreach To End Homelessness",
       "address": {
         "street": "1938 S. Western Ave.",
@@ -1765,6 +1829,7 @@
       }
     },
     {
+      "id": "karsh-family-social-service-center",
       "name": "Karsh Family Social Service Center",
       "address": {
         "street": "3750 W. 6th St.",
@@ -1783,6 +1848,7 @@
       }
     },
     {
+      "id": "kennedy-austin-foundation",
       "name": "Kennedy Austin Foundation",
       "address": {
         "street": "1460 E. Holt Ave., Ste. 182",
@@ -1801,6 +1867,7 @@
       }
     },
     {
+      "id": "kennedy-high-school",
       "name": "Kennedy High School",
       "address": {
         "street": "11254 Gothic Ave.",
@@ -1809,7 +1876,6 @@
         "zip_code": "91344",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "https://www.jfkcougars.org/",
@@ -1819,6 +1885,7 @@
       }
     },
     {
+      "id": "khalsa-care-foundation",
       "name": "Khalsa Care Foundation",
       "address": {
         "street": "9989 Laurel Canyon Blvd.",
@@ -1827,7 +1894,6 @@
         "zip_code": "91331",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Pantry",
       "description": "The foundation provides emergency food for individuals of all ages, including those that are undocumented, in the San Fernando Valley. There are no geographic restrictions.",
       "web_link": "https://www.211la.org/211search/more?site_id=1066120001",
@@ -1837,6 +1903,7 @@
       }
     },
     {
+      "id": "latino-equality-alliance-mi-centro-pride-pantry",
       "name": "Latino Equality Alliance: Mi Centro: Pride Pantry",
       "address": {
         "street": "553 S. Clarence St.",
@@ -1845,7 +1912,6 @@
         "zip_code": "90033",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Pantry",
       "description": "RSVP here: bit.ly/LEAPridePantry",
       "web_link": "http://bit.ly/LEAPridePantry",
@@ -1855,6 +1921,7 @@
       }
     },
     {
+      "id": "liechty-middle-school",
       "name": "Liechty Middle School",
       "address": {
         "street": "650 S. Union Ave.",
@@ -1863,7 +1930,6 @@
         "zip_code": "90017",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://liechtyms-lausd-ca.schoolloop.com/",
@@ -1873,6 +1939,7 @@
       }
     },
     {
+      "id": "lincoln-senior-high-school",
       "name": "Lincoln Senior High School",
       "address": {
         "street": "3501 N. Broadway",
@@ -1881,7 +1948,6 @@
         "zip_code": "90031",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "http://www.lincolnhs.org/",
@@ -1891,6 +1957,7 @@
       }
     },
     {
+      "id": "los-angeles-academy-middle-school",
       "name": "Los Angeles Academy Middle School",
       "address": {
         "street": "644 56th St.",
@@ -1899,7 +1966,6 @@
         "zip_code": "90011",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://laacademyms-lausd-ca.schoolloop.com/",
@@ -1909,6 +1975,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - Asian Service Center",
       "address": {
         "street": "14112 S. Kingsley Dr.",
@@ -1927,6 +1994,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-2",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - Centro Maravilla Service Center",
       "address": {
         "street": "4716 E. Cesar E. Chavez Ave.",
@@ -1945,6 +2013,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-3",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - East Los Angeles Community Service Center",
       "address": {
         "street": "133 N. Sunol Dr.",
@@ -1963,6 +2032,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-4",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - East Rancho Dominguez Service Center",
       "address": {
         "street": "15116 S. Atlantic Ave.",
@@ -1981,6 +2051,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-5",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - Florence - Firestone Service Center",
       "address": {
         "street": "7807 S. Compton Ave.",
@@ -1999,6 +2070,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-6",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - San Gabriel Valley Service Center",
       "address": {
         "street": "1441 Santa Anita Ave.",
@@ -2017,6 +2089,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-7",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - San Pedro Service Center",
       "address": {
         "street": "769 W. Third St.",
@@ -2035,6 +2108,7 @@
       }
     },
     {
+      "id": "los-angeles-county-workforce-development-aging-and-8",
       "name": "Los Angeles County Workforce Development, Aging And Community Services - Santa Clarita Valley Service Center",
       "address": {
         "street": "26111 Bouquet Canyon Rd.",
@@ -2053,6 +2127,7 @@
       }
     },
     {
+      "id": "los-angeles-regional-food-bank",
       "name": "Los Angeles Regional Food Bank",
       "address": {
         "street": "1734 E. 41st St.",
@@ -2071,6 +2146,7 @@
       }
     },
     {
+      "id": "maclay-middle-school",
       "name": "Maclay Middle School",
       "address": {
         "street": "12540 Pierce Ave.",
@@ -2079,7 +2155,6 @@
         "zip_code": "91331",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://maclayms-lausd-ca.schoolloop.com/",
@@ -2089,6 +2164,7 @@
       }
     },
     {
+      "id": "manual-arts-high-school",
       "name": "Manual Arts High School",
       "address": {
         "street": "4131 S. Vermont Ave.",
@@ -2097,7 +2173,6 @@
         "zip_code": "90037",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://www.mahs.org/",
@@ -2107,6 +2182,7 @@
       }
     },
     {
+      "id": "marina-del-rey-middle-school",
       "name": "Marina Del Rey Middle School",
       "address": {
         "street": "12500 Braddock Drive",
@@ -2115,7 +2191,6 @@
         "zip_code": "90066",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://www.marinadelreyms.org/pf4/cms2_site/view_deployment?d=x&theme_id=i37cxv1z4o2inp&group_id=1537515271370",
@@ -2125,6 +2200,7 @@
       }
     },
     {
+      "id": "markham-middle-school",
       "name": "Markham Middle School",
       "address": {
         "street": "1650 E. 104th St.",
@@ -2133,7 +2209,6 @@
         "zip_code": "90002",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://www.newmarkham.com/",
@@ -2143,6 +2218,7 @@
       }
     },
     {
+      "id": "marquez-senior-high-school",
       "name": "Marquez Senior High School",
       "address": {
         "street": "6361 Cottage St.",
@@ -2151,7 +2227,6 @@
         "zip_code": "90255",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://www.marquezhs.net/",
@@ -2161,6 +2236,7 @@
       }
     },
     {
+      "id": "mother-of-sorrows-catholic-church",
       "name": "Mother Of Sorrows Catholic Church",
       "address": {
         "street": "114 W. 87th St.",
@@ -2179,6 +2255,7 @@
       }
     },
     {
+      "id": "msgr-wood-community-center",
       "name": "Msgr Wood Community Center",
       "address": {
         "street": "2013 Colorado Ave.",
@@ -2197,6 +2274,7 @@
       }
     },
     {
+      "id": "muir-middle-school",
       "name": "Muir Middle School",
       "address": {
         "street": "5929 S. Vermont Ave.",
@@ -2205,7 +2283,6 @@
         "zip_code": "90044",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "http://www.muirmiddle.org/cms/day?d=x&group_id=1260515558610&day_id=1476860400000&return_url=1474483833504",
@@ -2215,6 +2292,7 @@
       }
     },
     {
+      "id": "mulholland-middle-school",
       "name": "Mulholland Middle School",
       "address": {
         "street": "17120 Vanowen Ave.",
@@ -2223,7 +2301,6 @@
         "zip_code": "91406",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "https://www.mulhollandms.org/",
@@ -2233,6 +2310,7 @@
       }
     },
     {
+      "id": "my-friends-house-inc",
       "name": "My Friends House Inc",
       "address": {
         "street": "3533 W. 58th Pl.",
@@ -2251,6 +2329,7 @@
       }
     },
     {
+      "id": "narbonne-senior-high-school",
       "name": "Narbonne Senior High School",
       "address": {
         "street": "24300 Western Ave.",
@@ -2259,7 +2338,6 @@
         "zip_code": "90710",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://www.narbonnehsgauchos.com/",
@@ -2269,6 +2347,7 @@
       }
     },
     {
+      "id": "north-hollywood-interfaith-food-pantry",
       "name": "North Hollywood Interfaith Food Pantry",
       "address": {
         "street": "4390 Colfax Ave.",
@@ -2287,6 +2366,7 @@
       }
     },
     {
+      "id": "north-valley-caring-services-inc",
       "name": "North Valley Caring Services Inc",
       "address": {
         "street": "15453 Rayen St.",
@@ -2305,6 +2385,7 @@
       }
     },
     {
+      "id": "our-lady-queen-of-angels-catholic-church",
       "name": "Our Lady Queen Of Angels Catholic Church",
       "address": {
         "street": "535 N. Main St.",
@@ -2323,6 +2404,7 @@
       }
     },
     {
+      "id": "our-saviour-center",
       "name": "Our Saviour Center",
       "address": {
         "street": "4368 Santa Anita Ave.",
@@ -2341,6 +2423,7 @@
       }
     },
     {
+      "id": "palmdale-7th-day-adventist-church-community-servic",
       "name": "Palmdale 7th Day Adventist Church Community Services",
       "address": {
         "street": "1758 E. Avenue R",
@@ -2359,6 +2442,7 @@
       }
     },
     {
+      "id": "palms-middle-school",
       "name": "Palms Middle School",
       "address": {
         "street": "10860 Woodbine St.",
@@ -2367,7 +2451,6 @@
         "zip_code": "90034",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://www.palmsmiddleschool.org/pf4/cms2_site/view_deployment?d=x&theme_id=ri241g29ausyn3u&group_id=1500178974193",
@@ -2377,6 +2460,7 @@
       }
     },
     {
+      "id": "panorama-senior-high-school",
       "name": "Panorama Senior High School",
       "address": {
         "street": "8015 Van Nuys Blvd.",
@@ -2385,7 +2469,6 @@
         "zip_code": "91402",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://www.panoramahs.org/",
@@ -2395,6 +2478,7 @@
       }
     },
     {
+      "id": "peace-lutheran-church",
       "name": "Peace Lutheran Church",
       "address": {
         "street": "11690 Fenton Ave.",
@@ -2413,6 +2497,7 @@
       }
     },
     {
+      "id": "peary-middle-school",
       "name": "Peary Middle School",
       "address": {
         "street": "1415 W. Gardena Blvd.",
@@ -2421,7 +2506,6 @@
         "zip_code": "90247",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://pearyms-lausd-ca.schoolloop.com/",
@@ -2431,6 +2515,7 @@
       }
     },
     {
+      "id": "pico-union-project",
       "name": "Pico Union Project",
       "address": {
         "street": "1153 Valencia St.",
@@ -2449,6 +2534,7 @@
       }
     },
     {
+      "id": "porter-middle-school",
       "name": "Porter Middle School",
       "address": {
         "street": "15960 Kingsbury St.",
@@ -2457,7 +2543,6 @@
         "zip_code": "91344",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "https://www.porterms.com/",
@@ -2467,6 +2552,7 @@
       }
     },
     {
+      "id": "rancho-dominguez-preparatory-school",
       "name": "Rancho Dominguez Preparatory School",
       "address": {
         "street": "4110 Santa Fe Ave.",
@@ -2475,7 +2561,6 @@
         "zip_code": "80910",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://rdps-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=i15cl1wmb23jn&group_id=1500178973693",
@@ -2485,6 +2570,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-calvary-b",
       "name": "Rescue Mission Alliance - Valley Food Bank - Calvary Baptist Of Pacoima (life Center)",
       "address": {
         "street": "12900 Vaughn St.",
@@ -2503,6 +2589,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-leaves-of",
       "name": "Rescue Mission Alliance - Valley Food Bank - Leaves Of Healing Tabernacle",
       "address": {
         "street": "9420 Lurline Ave., #D",
@@ -2521,6 +2608,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-new-hope-",
       "name": "Rescue Mission Alliance - Valley Food Bank - New Hope Church",
       "address": {
         "street": "14539 Sylvan St.",
@@ -2539,6 +2627,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-rock-of-t",
       "name": "Rescue Mission Alliance - Valley Food Bank - Rock Of The Valley",
       "address": {
         "street": "7722 Kester Ave.",
@@ -2557,6 +2646,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-st-andrew",
       "name": "Rescue Mission Alliance - Valley Food Bank - St Andrew And St Charles Church",
       "address": {
         "street": "16651 Rinaldi St.",
@@ -2575,6 +2665,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-the-house",
       "name": "Rescue Mission Alliance - Valley Food Bank - The House",
       "address": {
         "street": "18515 Sherman Way",
@@ -2593,6 +2684,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-valley-ko",
       "name": "Rescue Mission Alliance - Valley Food Bank - Valley Korean United Methodist Church",
       "address": {
         "street": "10408 Balboa Blvd.",
@@ -2611,6 +2703,7 @@
       }
     },
     {
+      "id": "rescue-mission-alliance-valley-food-bank-valley-pa",
       "name": "Rescue Mission Alliance - Valley Food Bank - Valley Park Church",
       "address": {
         "street": "16514 Nordhoff St.",
@@ -2629,6 +2722,7 @@
       }
     },
     {
+      "id": "rfkucla-community-school",
       "name": "RFK/UCLA Community School",
       "address": {
         "street": "700 S. Mariposa Ave.",
@@ -2637,7 +2731,6 @@
         "zip_code": "90005",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://rfkschools-lausd-ca.schoolloop.com/",
@@ -2647,6 +2740,7 @@
       }
     },
     {
+      "id": "romer-middle-school",
       "name": "Romer Middle School",
       "address": {
         "street": "6501 Laurel Canyon Blvd.",
@@ -2655,7 +2749,6 @@
         "zip_code": "91606",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://romerms-lausd-ca.schoolloop.com/",
@@ -2665,6 +2758,7 @@
       }
     },
     {
+      "id": "saint-mark-united-methodist-church",
       "name": "Saint Mark United Methodist Church",
       "address": {
         "street": "8305 S. Gramercy Pl.",
@@ -2683,6 +2777,7 @@
       }
     },
     {
+      "id": "salvation-army-southern-california-divisional-head",
       "name": "Salvation Army - Southern California Divisional Headquarters - Los Angeles Family Services Office - On Hold",
       "address": {
         "street": "906 S. Francisco St.",
@@ -2701,6 +2796,7 @@
       }
     },
     {
+      "id": "salvation-army-stillman-sawyer-family-center",
       "name": "Salvation Army - Stillman Sawyer Family Center",
       "address": {
         "street": "820 Lomita Blvd.",
@@ -2719,6 +2815,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-community-center-compton",
       "name": "Salvation Army Corps Community Center - Compton",
       "address": {
         "street": "736 E. Compton Blvd.",
@@ -2737,6 +2834,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-community-center-east-los-ang",
       "name": "Salvation Army Corps Community Center - East Los Angeles Temple",
       "address": {
         "street": "140 N. Eastman Ave.",
@@ -2755,6 +2853,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-community-center-glendale",
       "name": "Salvation Army Corps Community Center - Glendale",
       "address": {
         "street": "320 W. Windsor Rd.",
@@ -2773,6 +2872,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-community-center-long-beach",
       "name": "Salvation Army Corps Community Center - Long Beach",
       "address": {
         "street": "3092 Long Beach Blvd.",
@@ -2791,6 +2891,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-community-center-santa-monica",
       "name": "Salvation Army Corps Community Center - Santa Monica",
       "address": {
         "street": "1533 4th St.",
@@ -2809,6 +2910,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-community-center-south-centra",
       "name": "Salvation Army Corps Community Center - South Central Los Angeles",
       "address": {
         "street": "7651 S. Central Ave.",
@@ -2827,6 +2929,7 @@
       }
     },
     {
+      "id": "salvation-army-corps-family-service-center-san-ped",
       "name": "Salvation Army Corps Family Service Center - San Pedro",
       "address": {
         "street": "138 S. Bandini St.",
@@ -2845,6 +2948,7 @@
       }
     },
     {
+      "id": "salvation-army-service-extension-office-newhall",
       "name": "Salvation Army Service Extension Office - Newhall",
       "address": {
         "street": "229-35 Lyons Ave., Ste. E",
@@ -2863,6 +2967,7 @@
       }
     },
     {
+      "id": "salvation-army-southeast-communities-corp-huntingt",
       "name": "Salvation Army Southeast Communities Corp - Huntington Park",
       "address": {
         "street": "2965 E. Gage Ave.",
@@ -2881,6 +2986,7 @@
       }
     },
     {
+      "id": "san-fernando-senior-high-school",
       "name": "San Fernando Senior High School",
       "address": {
         "street": "11133 O\u2019Melveny Ave.",
@@ -2889,7 +2995,6 @@
         "zip_code": "90140",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://www.sanfernandohs.com/",
@@ -2899,6 +3004,7 @@
       }
     },
     {
+      "id": "san-gabriel-mission-christian-service-center",
       "name": "San Gabriel Mission Christian Service Center",
       "address": {
         "street": "254 1/2 S. Santa Anita",
@@ -2917,6 +3023,7 @@
       }
     },
     {
+      "id": "santa-clarita-valley-food-pantry",
       "name": "Santa Clarita Valley Food Pantry",
       "address": {
         "street": "24133 Railroad Ave.",
@@ -2935,6 +3042,7 @@
       }
     },
     {
+      "id": "santee-high-school",
       "name": "Santee High School",
       "address": {
         "street": "1921 Maple Ave.",
@@ -2943,7 +3051,6 @@
         "zip_code": "90011",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://www.santeefalcons.org/",
@@ -2953,6 +3060,7 @@
       }
     },
     {
+      "id": "sepulveda-middle-school",
       "name": "Sepulveda Middle School",
       "address": {
         "street": "15330 Plummer St.",
@@ -2961,7 +3069,6 @@
         "zip_code": "91343",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "https://sepulvedams-lausd-ca.schoolloop.com/",
@@ -2971,6 +3078,7 @@
       }
     },
     {
+      "id": "shekinah-worship-center",
       "name": "Shekinah Worship Center",
       "address": {
         "street": "42640 10th St. West",
@@ -2989,6 +3097,7 @@
       }
     },
     {
+      "id": "shepherds-pantry",
       "name": "Shepherd's Pantry",
       "address": {
         "street": "1418 Arrow Hwy.",
@@ -3007,6 +3116,7 @@
       }
     },
     {
+      "id": "shepherds-pantry-baldwin-park",
       "name": "Shepherd's Pantry - Baldwin Park",
       "address": {
         "street": "13020 Francisquito Ave.",
@@ -3025,6 +3135,7 @@
       }
     },
     {
+      "id": "shepherds-pantry-glendora",
       "name": "Shepherd's Pantry - Glendora",
       "address": {
         "street": "657 E. Arrow Hwy., Ste. J",
@@ -3043,6 +3154,7 @@
       }
     },
     {
+      "id": "sotomayor-artssciences-magnet",
       "name": "Sotomayor Arts/Sciences Magnet",
       "address": {
         "street": "2050 N. San Fernando Road",
@@ -3051,7 +3163,6 @@
         "zip_code": "90065",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://www.sotomayor.la/",
@@ -3061,6 +3172,7 @@
       }
     },
     {
+      "id": "south-east-senior-high-school",
       "name": "South East Senior High School",
       "address": {
         "street": "2720 Tweedy Blvd.",
@@ -3069,7 +3181,6 @@
         "zip_code": "90280",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://southeast-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=iy2g2g20dp65c6&group_id=1500178973927",
@@ -3079,6 +3190,7 @@
       }
     },
     {
+      "id": "south-gate-senior-high-school",
       "name": "South Gate Senior High School",
       "address": {
         "street": "3351 Firestone Blvd.",
@@ -3087,7 +3199,6 @@
         "zip_code": "90080",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://www.southgatehs.org/",
@@ -3097,6 +3208,7 @@
       }
     },
     {
+      "id": "sova-food-pantry-and-resource-center-valley",
       "name": "Sova Food Pantry And Resource Center - Valley",
       "address": {
         "street": "16439 Vanowen St.",
@@ -3115,6 +3227,7 @@
       }
     },
     {
+      "id": "sova-food-pantry-and-resource-center-west",
       "name": "Sova Food Pantry And Resource Center - West",
       "address": {
         "street": "8846 W. Pico Blvd.",
@@ -3133,6 +3246,7 @@
       }
     },
     {
+      "id": "sowing-seeds-for-life",
       "name": "Sowing Seeds For Life",
       "address": {
         "street": "1350 Arrow Hwy.",
@@ -3151,6 +3265,7 @@
       }
     },
     {
+      "id": "st-athanasius-and-st-paul",
       "name": "St Athanasius And St Paul",
       "address": {
         "street": "840 Echo Park Ave.",
@@ -3169,6 +3284,7 @@
       }
     },
     {
+      "id": "st-augustine-volunteer-emergency-services",
       "name": "St Augustine Volunteer Emergency Services",
       "address": {
         "street": "3850 Jasmine Ave.",
@@ -3187,6 +3303,7 @@
       }
     },
     {
+      "id": "st-charles-holy-family-service-center",
       "name": "St Charles Holy Family Service Center",
       "address": {
         "street": "10825 Moorpark St.",
@@ -3205,6 +3322,7 @@
       }
     },
     {
+      "id": "st-elisabeth-catholic-church-service-center-distri",
       "name": "St Elisabeth Catholic Church - Service Center Distribution Site",
       "address": {
         "street": "6640 Cedros Ave.",
@@ -3223,6 +3341,7 @@
       }
     },
     {
+      "id": "st-ferdinand-outreach-center",
       "name": "St Ferdinand Outreach Center",
       "address": {
         "street": "1040 Coronel St.",
@@ -3241,6 +3360,7 @@
       }
     },
     {
+      "id": "st-frances-of-rome-food-bank",
       "name": "St Frances Of Rome Food Bank",
       "address": {
         "street": "501 E. Foothill Blvd.",
@@ -3259,6 +3379,7 @@
       }
     },
     {
+      "id": "st-gerard-majella-church",
       "name": "St Gerard Majella Church",
       "address": {
         "street": "4439 Inglewood Blvd.",
@@ -3277,6 +3398,7 @@
       }
     },
     {
+      "id": "st-gregorys-episcopal-church",
       "name": "St Gregory's Episcopal Church",
       "address": {
         "street": "6201 Willow St.",
@@ -3295,6 +3417,7 @@
       }
     },
     {
+      "id": "st-johns-episcopal-cathedral",
       "name": "St John's Episcopal Cathedral",
       "address": {
         "street": "514 W. Adams Blvd.",
@@ -3313,6 +3436,7 @@
       }
     },
     {
+      "id": "st-joseph-center",
       "name": "St Joseph Center",
       "address": {
         "street": "204 Hampton Dr.",
@@ -3331,6 +3455,7 @@
       }
     },
     {
+      "id": "st-lawrence-martyr-catholic-church",
       "name": "St Lawrence Martyr Catholic Church",
       "address": {
         "street": "1900 S. Prospect Ave.",
@@ -3349,6 +3474,7 @@
       }
     },
     {
+      "id": "st-lawrence-of-brindisi",
       "name": "St Lawrence Of Brindisi",
       "address": {
         "street": "10122 Compton Ave.",
@@ -3367,6 +3493,7 @@
       }
     },
     {
+      "id": "st-margaret-marys-christian-services",
       "name": "St Margaret Mary's Christian Services",
       "address": {
         "street": "25511 Eshelman Ave.",
@@ -3385,6 +3512,7 @@
       }
     },
     {
+      "id": "st-martin-de-porres-outreach-center",
       "name": "St Martin De Porres Outreach Center",
       "address": {
         "street": "1345 Turnbull Canyon Rd.",
@@ -3403,6 +3531,7 @@
       }
     },
     {
+      "id": "st-philips-episcopal-church",
       "name": "St Philip's Episcopal Church",
       "address": {
         "street": "2800 Stanford Ave.",
@@ -3421,6 +3550,7 @@
       }
     },
     {
+      "id": "st-philomena-church",
       "name": "St Philomena Church",
       "address": {
         "street": "21900 S. Main St.",
@@ -3439,6 +3569,7 @@
       }
     },
     {
+      "id": "st-timothy-church",
       "name": "St Timothy Church",
       "address": {
         "street": "312 S. Oleander Ave.",
@@ -3457,6 +3588,7 @@
       }
     },
     {
+      "id": "st-francis-center",
       "name": "St. Francis Center",
       "address": {
         "street": "1835 S. Hope St.",
@@ -3475,6 +3607,7 @@
       }
     },
     {
+      "id": "sutter-middle-school",
       "name": "Sutter Middle School",
       "address": {
         "street": "7330 Winnetka Ave.",
@@ -3483,7 +3616,6 @@
         "zip_code": "91306",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHWEST",
       "web_link": "http://www.sutterms.org/",
@@ -3493,6 +3625,7 @@
       }
     },
     {
+      "id": "sylmar-charter-high-school",
       "name": "Sylmar Charter High School",
       "address": {
         "street": "13050 Borden Ave.",
@@ -3501,7 +3634,6 @@
         "zip_code": "91342",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://www.sylmarhs.org/",
@@ -3511,6 +3643,7 @@
       }
     },
     {
+      "id": "tamarind-avenue-7th-day-adventist-church",
       "name": "Tamarind Avenue 7th Day Adventist Church",
       "address": {
         "street": "417 S. Tamarind Ave.",
@@ -3529,6 +3662,7 @@
       }
     },
     {
+      "id": "toberman-neighborhood-center",
       "name": "Toberman Neighborhood Center",
       "address": {
         "street": "131 N. Grand Ave.",
@@ -3547,6 +3681,7 @@
       }
     },
     {
+      "id": "trinity-baptist-church",
       "name": "Trinity Baptist Church",
       "address": {
         "street": "2040 W. Jefferson Blvd.",
@@ -3565,6 +3700,7 @@
       }
     },
     {
+      "id": "university-high-school-charter",
       "name": "University High School Charter",
       "address": {
         "street": "11800 Texas Ave.",
@@ -3573,7 +3709,6 @@
         "zip_code": "90025",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://universitywildcats.edlioschool.com/",
@@ -3583,6 +3718,7 @@
       }
     },
     {
+      "id": "valley-beth-shalom",
       "name": "Valley Beth Shalom",
       "address": {
         "street": "15739 Ventura Blvd.",
@@ -3601,6 +3737,7 @@
       }
     },
     {
+      "id": "van-nuys-senior-high-school",
       "name": "Van Nuys Senior High School",
       "address": {
         "street": "6535 Cedric Ave.",
@@ -3609,7 +3746,6 @@
         "zip_code": "91411",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://ca02225230.schoolwires.net/",
@@ -3619,6 +3755,7 @@
       }
     },
     {
+      "id": "verdugo-hills-senior-high-school",
       "name": "Verdugo Hills Senior High School",
       "address": {
         "street": "10625 Plainview Ave.",
@@ -3627,7 +3764,6 @@
         "zip_code": "91042",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT NORTHEAST",
       "web_link": "https://www.verdugohs.org/",
@@ -3637,6 +3773,7 @@
       }
     },
     {
+      "id": "virgil-middle-school",
       "name": "Virgil Middle School",
       "address": {
         "street": "152 N. Vermont Ave.",
@@ -3645,7 +3782,6 @@
         "zip_code": "90004",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT CENTRAL",
       "web_link": "https://www.virgilms.net/",
@@ -3655,6 +3791,7 @@
       }
     },
     {
+      "id": "washington-preparatory-senior-high-school",
       "name": "Washington Preparatory Senior High School",
       "address": {
         "street": "10860 S. Denker Ave.",
@@ -3663,7 +3800,6 @@
         "zip_code": "90047",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT WEST",
       "web_link": "https://washingtonprephs-lausd-ca.schoolloop.com/pf4/cms2_site/view_deployment?d=x&theme_id=7i5c2audq5rp&group_id=1468166152105",
@@ -3673,6 +3809,7 @@
       }
     },
     {
+      "id": "wayside-united-methodist-church",
       "name": "Wayside United Methodist Church",
       "address": {
         "street": "25904 Cayuga Ave.",
@@ -3691,6 +3828,7 @@
       }
     },
     {
+      "id": "west-angeles-community-development-corporation-com",
       "name": "West Angeles Community Development Corporation - Community Assistance Department",
       "address": {
         "street": "3045 Crenshaw Blvd.",
@@ -3709,6 +3847,7 @@
       }
     },
     {
+      "id": "west-valley-food-pantry",
       "name": "West Valley Food Pantry",
       "address": {
         "street": "5700 Rudnick Ave.",
@@ -3727,6 +3866,7 @@
       }
     },
     {
+      "id": "west-washington-l-a-foursquare-church",
       "name": "West Washington L A Foursquare Church",
       "address": {
         "street": "5175 1/2 W. Washington Blvd.",
@@ -3745,6 +3885,7 @@
       }
     },
     {
+      "id": "white-middle-school",
       "name": "White Middle School",
       "address": {
         "street": "22102 S. Figueroa St.",
@@ -3753,7 +3894,6 @@
         "zip_code": "90745",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT SOUTH",
       "web_link": "https://whitems-lausd-ca.schoolloop.com/",
@@ -3763,6 +3903,7 @@
       }
     },
     {
+      "id": "wilson-senior-high-school",
       "name": "Wilson Senior High School",
       "address": {
         "street": "4500 Multnomah St.",
@@ -3771,7 +3912,6 @@
         "zip_code": "90032",
         "county": "Los Angeles"
       },
-      "phone": NaN,
       "resource_type": "Food Distribution Program",
       "description": "LOCAL DISTRICT EAST",
       "web_link": "https://www.ibwilsonmules.com/",
@@ -3781,6 +3921,7 @@
       }
     },
     {
+      "id": "world-harvest-food-bank",
       "name": "World Harvest Food Bank",
       "address": {
         "street": "3100 Venice Blvd.",
