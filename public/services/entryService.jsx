@@ -12,13 +12,24 @@ export async function createRestaurant(data = {}) {
   }
 }
 
+export async function createSpot(data = {}) {
+  console.log("Creating spot with data:", data);
+  try {
+    const docRef = await addDoc(collection(db, 'Spots'), data);
+    return { id: docRef.id, ...data };
+  } catch (error) {
+    console.error("Spots add error:", error.message);
+    return null;
+  }
+}
+
 export async function createFood(data = {}) {
-  console.log("Creating foodbank with data:", data);
+  console.log("Creating food with data:", data);
   try {
     const docRef = await addDoc(collection(db, 'Foods'), data);
     return { id: docRef.id, ...data };
   } catch (error) {
-    console.error("Foodbank add error:", error.message);
+    console.error("Food add error:", error.message);
     return null;
   }
 }
@@ -45,6 +56,22 @@ export async function deleteRestaurant(entryName) {
 export async function deleteFoodbank(entryName) {
   try {
     await deleteDoc(doc(db, 'Foodbank', entryName));
+  } catch (error) {
+    console.error("Delete error:", error.message);
+  }
+}
+
+export async function deleteFood(entryName) {
+  try {
+    await deleteDoc(doc(db, 'Foods', entryName));
+  } catch (error) {
+    console.error("Delete error:", error.message);
+  }
+}
+
+export async function deleteSpot(entryName) {
+  try {
+    await deleteDoc(doc(db, 'Spots', entryName));
   } catch (error) {
     console.error("Delete error:", error.message);
   }
