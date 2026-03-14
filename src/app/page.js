@@ -1,8 +1,12 @@
 import { Layout } from "@/components/Layout";
 import { Card } from "@/components/ui/Card";
-import { mockSpots } from "@/lib/data";
+import { mockRestaurants } from "@/lib/data";
+import foodSpots from "@/lib/la_food_banks.json";
+
 
 export default function HomePage() {
+  const spots = foodSpots.los_angeles_food_resources;
+
   return (
     <Layout>
       <div className="mb-16 text-center">
@@ -13,17 +17,24 @@ export default function HomePage() {
           Find food near you in LA - No ID required
         </p>
       </div>
-      
-      {/* ALL SPOTS AS CARDS - Exactly what you want */}
-      <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-        {mockSpots.map((spot) => (
-          <Card
-            key={spot.id}
-            title={spot.name}
-            description={`${spot.area} • ${spot.address}`}
-            href={`/spots/${spot.id}`}
-          />
-        ))}
+
+
+      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {spots.map((spot) => {
+          const tags = mockRestaurants
+            .filter((r) => r.pickupSpotId === spot.id)
+            .map((r) => r.name);
+
+          return (
+            <Card
+              key={spot.id}
+              title={spot.name}
+              description={`${spot.address.city} • ${spot.address.street}`}
+              href={`/spots/${spot.id}`}
+              tags={tags}
+            />
+          );
+        })}
       </div>
     </Layout>
   );
