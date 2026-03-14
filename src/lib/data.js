@@ -7,9 +7,9 @@ export const mockSpots = [
 // ✅ MORE RESTAURANTS!
 export const mockRestaurants = [
   // Venice
-  { id: "rest1", name: "Taco Haven", pickupSpotId: "venice", description: "Fresh Mexican food daily", hours: "11am-3pm" },
-  { id: "rest2", name: "Veggie Bowl", pickupSpotId: "venice", description: "Healthy vegan bowls", hours: "10am-2pm" },
-  { id: "rest3", name: "Pizza Slice", pickupSpotId: "venice", description: "Hot pizza slices", hours: "12pm-4pm" },
+  { id: "rest1", name: "Taco Haven", pickupSpotId: "aids-project-los-angeles-vance-north-necessities-o", description: "Fresh Mexican food daily", hours: "11am-3pm" },
+  { id: "rest2", name: "Veggie Bowl", pickupSpotId: "aids-project-los-angeles-vance-north-necessities-o", description: "Healthy vegan bowls", hours: "10am-2pm" },
+  { id: "rest3", name: "Pizza Slice", pickupSpotId: "aids-project-los-angeles-vance-north-necessities-o", description: "Hot pizza slices", hours: "12pm-4pm" },
   
   // Overland
   { id: "rest4", name: "Sandwich Spot", pickupSpotId: "overland", description: "Daily sandwich specials", hours: "12pm-4pm" },
