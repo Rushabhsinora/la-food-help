@@ -1,3 +1,16 @@
+export const mockLocations = [
+  { id: "loc1", name: "Venice", area: "Venice", lat: 33.9850, lng: -118.4695 },
+  { id: "loc2", name: "Culver City", area: "Culver City", lat: 34.0211, lng: -118.3965 },
+  { id: "loc3", name: "West Hollywood", area: "West Hollywood", lat: 34.0900, lng: -118.3617 },
+  { id: "loc4", name: "Silver Lake", area: "Silver Lake", lat: 34.0869, lng: -118.2698 },
+  { id: "loc5", name: "Koreatown", area: "Koreatown", lat: 34.0587, lng: -118.3006 },
+  { id: "loc6", name: "Inglewood", area: "Inglewood", lat: 33.9617, lng: -118.3531 },
+  { id: "loc7", name: "Echo Park", area: "Echo Park", lat: 34.0782, lng: -118.2606 },
+  { id: "loc8", name: "Palms", area: "Palms", lat: 34.0094, lng: -118.4068 },
+  { id: "loc9", name: "Los Feliz", area: "Los Feliz", lat: 34.1050, lng: -118.2864 },
+  { id: "loc10", name: "Leimert Park", area: "Leimert Park", lat: 33.9839, lng: -118.3341 },
+];
+
 export const mockSpots = [
   { id: "venice", name: "Venice Beach Pickup", area: "Venice", address: "123 Ocean Front Walk, Venice, CA" },
   { id: "overland", name: "Overland Ave Pickup", area: "Overland", address: "456 Overland Ave, Los Angeles, CA" },
