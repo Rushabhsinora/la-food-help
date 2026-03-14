@@ -1,5 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { titilliumWeb, inter } from '@/lib/fonts';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -18,9 +19,9 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" className={`${titilliumWeb.variable} ${inter.variable}`}>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${titilliumWeb.className} antialiased`}
       >
         {children}
       </body>
