@@ -3,7 +3,6 @@ import { Card } from "@/components/ui/Card";
 import { mockRestaurants } from "@/lib/data";
 
 export default async function SpotPage({ params }) {
-  // ✅ FIX: Await params (Next.js 16+ requirement)
   const { spotId } = await params;
   
   const spotRestaurants = mockRestaurants.filter(r => r.pickupSpotId === spotId);
@@ -25,7 +24,7 @@ export default async function SpotPage({ params }) {
             />
           ))
         ) : (
-          <p>No restaurants yet for this spot.</p>
+          <p className="text-black">No restaurants yet for this spot.</p>
         )}
       </div>
     </Layout>
