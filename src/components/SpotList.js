@@ -34,8 +34,8 @@ export function SpotList({ spots, restaurants, locations }) {
       milesAway: haversine(
         userLocation.lat,
         userLocation.lng,
-        spot.coordinates.latitude,
-        spot.coordinates.longitude
+        spot.lat ?? spot.coordinates?.latitude,
+        spot.lng ?? spot.coordinates?.longitude
       ),
     }))
     .filter((spot) => maxRange === null || spot.milesAway <= maxRange)
@@ -76,7 +76,7 @@ export function SpotList({ spots, restaurants, locations }) {
       </div>
 
       {sortedSpots.length > 0 ? (
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
           {sortedSpots.map((spot) => {
             const tags = restaurants
               .filter((r) => r.pickupSpotId === spot.id)
@@ -86,7 +86,7 @@ export function SpotList({ spots, restaurants, locations }) {
               <Card
                 key={spot.id}
                 title={spot.name}
-                description={`${spot.address.city} • ${spot.address.street}`}
+                description={`${spot.area ?? spot.address?.city} • ${spot.address?.street ?? ""}`}
                 href={`/spots/${spot.id}`}
                 tags={tags}
                 milesAway={spot.milesAway}
