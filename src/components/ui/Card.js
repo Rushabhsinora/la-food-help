@@ -3,7 +3,7 @@ export function Card({ title, description, children, href, tags, milesAway }) {
     <div className="group bg-white/80 backdrop-blur-sm border border-white/60 rounded-3xl shadow-2xl hover:shadow-3xl hover:-translate-y-3 transition-all duration-500 overflow-hidden">
       <div className="p-8 h-full">
         <div className="flex items-start justify-between mb-4">
-          <h3 className="font-titillium text-2xl md:text-3xl text-gray-900 group-hover:text-orange-700 transition-all duration-300 leading-tight">
+          <h3 className="font-titillium text-2xl md:text-3xl text-gray-900 group-hover:text-orange-700 transition-all duration-300 leading-tight line-clamp-2">
             {title}
           </h3>
           {milesAway != null && (
